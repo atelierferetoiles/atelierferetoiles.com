@@ -6,8 +6,8 @@
   import { page } from '$app/stores'; // Import the page store to access route-specific data.
   import getMetaTags from '$lib/metaTags';
 
-  // eslint-disable-next-line svelte/valid-compile
   export let data; // Exported so that child components/pages can provide data.
+  data;
 
   $: metaTags = getMetaTags({
     pathName: $page.url.pathname,

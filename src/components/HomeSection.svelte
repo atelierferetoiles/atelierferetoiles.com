@@ -18,7 +18,7 @@
 <section>
   <div
     class="flex flex-col min-h-[80vh] overflow-x-hidden bg-cover bg-center sm:grid sm:grid-cols-2 relative"
-    style={`background-image: url('${photoHome}');`}
+    style={`  image-rendering: crisp-edges;background-image: url('${photoHome}');`}
   >
     {#if announcement}
       <div
