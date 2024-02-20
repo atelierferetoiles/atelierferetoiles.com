@@ -1,0 +1,52 @@
+<script lang="ts">
+  import { MetaTags } from 'svelte-meta-tags';
+  import '../app.css';
+  import Nav from '$components/Nav.svelte';
+  import Footer from '$components/Footer.svelte';
+  import { page } from '$app/stores'; // Import the page store to access route-specific data.
+  import getMetaTags from '$lib/metaTags';
+
+  // eslint-disable-next-line svelte/valid-compile
+  export let data; // Exported so that child components/pages can provide data.
+
+  $: metaTags = getMetaTags({
+    pathName: $page.url.pathname,
+    title: $page?.data?.title,
+    description: $page?.data?.description,
+    imagePath: $page?.data?.imagePath,
+    additionalProps: $page?.data?.additionalProps,
+  });
+</script>
+
+<MetaTags {...metaTags} />
+
+<svelte:head>
+  <script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Atelier Fer e'Toiles",
+      "url" : "https://atelierferetoiles.com/"
+    }
+  </script>
+  <link rel="dns-prefetch" href="//fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com/" />
+  <link rel="preconnect" href="https://fonts.googleapis.com/" />
+
+  <link
+    href="https://fonts.googleapis.com/css?family=Inter:400,700&display=swap"
+    rel="stylesheet"
+  />
+</svelte:head>
+
+<div class="flex h-screen flex-col">
+  <header class="fixed top-0 z-50 w-full">
+    <Nav />
+  </header>
+  <main class="relative mt-16 sm:pt-2">
+    <slot />
+  </main>
+  <footer class="mt-auto bg-[#A3ABFB]">
+    <Footer />
+  </footer>
+</div>

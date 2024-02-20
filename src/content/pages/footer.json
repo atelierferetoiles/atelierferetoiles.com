@@ -1,0 +1,38 @@
+{
+  "addressLink": "https://maps.app.goo.gl/zqZvK6LBXsQq11Wn9",
+  "address": "226 rue du Haut Prieur, Locon, 62400",
+  "mapsEmbedLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2533.5671229192176!2d2.6664502764943365!3d50.5794115716171!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47dd216fd435db07%3A0x35cfab54a08da99e!2sAtelier%20Fer%20e'Toiles!5e0!3m2!1sen!2sfr!4v1708460018908!5m2!1sen!2sfr",
+  "hours": [
+    {
+      "day": "Lundi",
+      "hours": "fermé"
+    },
+    {
+      "day": "Mardi",
+      "hours": "14h 18h30"
+    },
+    {
+      "day": "Mercredi",
+      "hours": "fermé"
+    },
+    {
+      "day": "Jeudi",
+      "hours": "14h 18h30"
+    },
+    {
+      "day": "Vendredi",
+      "hours": "fermé"
+    },
+    {
+      "day": "Samedi",
+      "hours": "fermé"
+    },
+    {
+      "day": "Dimanche",
+      "hours": "fermé"
+    }
+  ],
+  "imageHoursSrc": "/asset/image_footer.jpeg",
+  "imageHoursAlt": "Atelier Fer e'Toiles showroom",
+  "hoursTitle": "Horaires"
+}

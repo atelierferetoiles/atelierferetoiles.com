@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* @layer utilities {
+  .hero-image {
+    background-image: url('/asset/image_accueil.jpg');
+  }
+} */
