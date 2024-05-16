@@ -60,7 +60,51 @@ export default defineConfig({
             name: 'body',
             label: 'Contenu',
             type: 'rich-text',
-            isBody: true
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: 'Formations',
+        path: 'src/content/pages',
+        match: {
+          include: 'formations',
+        },
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        format: 'md',
+        fields: [
+          {
+            name: 'body',
+            label: 'Contenu',
+            type: 'rich-text',
+            isBody: true,
+          },
+        ],
+      },
+      {
+        name: 'Expo_Vente',
+        path: 'src/content/pages',
+        match: {
+          include: 'expo-vente',
+        },
+        ui: {
+          allowedActions: {
+            create: false,
+            delete: false,
+          },
+        },
+        format: 'md',
+        fields: [
+          {
+            name: 'body',
+            label: 'Contenu',
+            type: 'rich-text',
+            isBody: true,
           },
         ],
       },
