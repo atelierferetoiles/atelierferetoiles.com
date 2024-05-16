@@ -15,7 +15,7 @@ const cdnImageSrc = (options: Options): string => {
   const optionsStr = Object.entries(options)
     .map(([key, value]) => `${key}=${value}`)
     .join('&');
-  return `${optionsStr}`;
+  return `?${optionsStr}`;
 };
 
 export default cdnImageSrc;
