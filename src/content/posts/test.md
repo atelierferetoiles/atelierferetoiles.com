@@ -1,6 +1,6 @@
 ---
 title: Produit 1
-price: 30
+price: 40
 category: src/content/categories/Autres.json
 imgSrcList:
   - src: /asset/dummy_2000x1500_ffffff_cccccc.png
