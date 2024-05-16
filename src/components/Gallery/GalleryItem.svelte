@@ -15,7 +15,9 @@
       <img
         class="rounded group-hover:scale-110 transition duration-300 ease-in-out"
         loading="lazy"
-        src={cdnImageSrc({ url: img.src, h: 400, w: 300 })}
+        width="400"
+        height="300"
+        src={cdnImageSrc({ url: img.src, w: 400, h: 300 })}
         alt={img.alt}
       />
     </div>

@@ -11,13 +11,21 @@
 </script>
 
 <div class="w-full mb-4">
-  <img class="w-full" src={cdnImageSrc({ url: img.src, w: 1600, h: 1200 })} alt={img.alt} />
+  <img
+    class="w-full"
+    width="1600"
+    height="1200"
+    src={cdnImageSrc({ url: img.src, w: 1600, h: 1200 })}
+    alt={img.alt}
+  />
 </div>
 <div class="flex flex-row flex-wrap gap-4 px-4 sm:px-0">
   {#each imgSrcList as imgData}
     <img
       on:mouseenter={() => changeImg(imgData)}
       class="h-8 w-8 block object-cover md:h-12 md:w-12"
+      width="64"
+      height="64"
       src={cdnImageSrc({ url: imgData.src, h: 64, w: 64 })}
       alt={imgData.alt}
     />
