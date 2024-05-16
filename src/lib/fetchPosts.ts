@@ -10,6 +10,7 @@ export interface Metadata {
 export interface PostData {
   metadata: Metadata;
   path: string;
+  body: any;
   previous?: { metadata: Metadata; path: string };
   next?: { metadata: Metadata; path: string };
 }

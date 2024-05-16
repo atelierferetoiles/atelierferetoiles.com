@@ -9,8 +9,14 @@
 </script>
 
 {#if img}
-  <a class="group rounded hover:bg-" href={`realisations/${path}`}>
-    <img class="rounded" src={img.src} alt={img.alt} />
-    <span class="block px-2 group-hover:underline">{title}</span>
+  <a class="group rounded" href={`realisations/${path}`}>
+    <div class="relative overflow-hidden rounded">
+      <img
+        class="rounded group-hover:scale-110 transition duration-300 ease-in-out"
+        src={img.src}
+        alt={img.alt}
+      />
+    </div>
+    <span class="block px-2">{title}</span>
   </a>
 {/if}

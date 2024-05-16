@@ -1,9 +1,9 @@
 <script lang="ts">
   import type { PostData } from '$lib/fetchPosts';
   export let post: PostData;
+  export let Body: any;
   const {
     metadata: { price, title },
-    body: Body,
   } = post;
 </script>
 

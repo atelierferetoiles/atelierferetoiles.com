@@ -11,7 +11,7 @@ module.exports = {
     extend: {
       colors: {
         egyptianblue: '#333399',
-        blush: '#DB5375',
+        blush: '#D99D85',
         vistablue: '#8F95D3',
         whitesmoke: '#F2F2F2',
 

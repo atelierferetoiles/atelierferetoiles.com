@@ -1,5 +1,7 @@
-import page from '$content/pages/home-page.json';
-
 export async function load() {
-  return { page, title: 'Accueil' };
+  const content = import.meta.glob<{ metadata: any; default: any }>(
+    '../content/pages/home-page.md'
+  );
+  const { metadata, default: body } = await content['../content/pages/home-page.md']();
+  return { metadata, body, title: 'Accueil' };
 }

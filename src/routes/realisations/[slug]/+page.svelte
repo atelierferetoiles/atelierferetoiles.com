@@ -16,7 +16,7 @@
       <Images {imgSrcList} />
     </div>
     <div class="grow basis-1/3 shrink-0">
-      <Description {post} />
+      <Description {post} Body={post.body} />
     </div>
   </div>
 </div>

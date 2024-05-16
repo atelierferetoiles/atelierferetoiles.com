@@ -26,7 +26,7 @@
   // close the menu on click outside of the menu
 
   const linkClass =
-    'flex p-2 sm:justify-center items-center uppercase text-neutral-200 whitespace-nowrap hover:text-blue-200 transition-colors hover:text-shadow hover:shadow-blue-700';
+    'flex p-2 sm:justify-center items-center uppercase text-neutral-200 whitespace-nowrap';
 </script>
 
 <div class="flex justify-center bg-egyptianblue">
