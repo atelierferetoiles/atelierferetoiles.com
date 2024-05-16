@@ -5,7 +5,7 @@
 		"dev": "vite dev --port=3000",
 		"prebuild": "npm run check",
 		"prepare": "svelte-kit sync",
-		"build": "rimraf build && vite build",
+		"build": "rimraf build && tinacms build && vite build",
 		"postbuild": "svelte-sitemap --domain https://atelierferetoiles.com --ignore 404.html",
 		"preview": "serve build -p 3000 -n",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
