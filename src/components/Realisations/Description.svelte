@@ -14,5 +14,5 @@
       <h2 class="text-md font-medium">{price} €</h2>
     {/if}
   </div>
-  <div><Body /></div>
+  <div class="text-justify"><Body /></div>
 </div>
