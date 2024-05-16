@@ -1,3 +1,4 @@
+import cdnImageSrc from '$lib/cdnImageSrc.js';
 import { fetchMarkdownPosts } from '$lib/fetchPosts';
 
 export async function load({ params: { slug } }) {
@@ -12,5 +13,6 @@ export async function load({ params: { slug } }) {
     slug,
     title: post?.metadata.title,
     description: '',
+    imagePath: cdnImageSrc({ url: post.metadata.imgSrcList[0]?.src, w: 1200, h: 627 }),
   };
 }

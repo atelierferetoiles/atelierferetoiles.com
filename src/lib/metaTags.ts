@@ -1,5 +1,4 @@
 import type { MetaTagsProps } from 'svelte-meta-tags';
-import { photoHome } from '../content/pages/home-page.json';
 import { urlRoot } from './constants';
 
 interface MetaTagsArguments {
@@ -10,10 +9,9 @@ interface MetaTagsArguments {
   additionalProps?: MetaTagsProps;
 }
 
-const defaultTitle = 'Atelier Fer e\'Toiles';
-const defaultDescription =
-  'Atelier Fer e\'Toiles';
-const defaultImagePath = photoHome;
+const defaultTitle = "Atelier Fer e'Toiles";
+const defaultDescription = "Atelier Fer e'Toiles";
+const defaultImagePath = '/static/asset/267327189_105633231974178_2711986790843941340_n.jpg';
 
 const getMetaTags = ({
   pathName,
@@ -24,12 +22,12 @@ const getMetaTags = ({
 }: MetaTagsArguments): MetaTagsProps => {
   return {
     title,
-    titleTemplate: '%s | Atelier Fer e\'Toiles',
+    titleTemplate: "%s | Atelier Fer e'Toiles",
     description,
     openGraph: {
       type: 'website',
       locale: 'fr-fr',
-      siteName: 'Atelier Fer e\'Toiles',
+      siteName: "Atelier Fer e'Toiles",
       title,
       description,
       url: new URL(pathName, urlRoot).href,
