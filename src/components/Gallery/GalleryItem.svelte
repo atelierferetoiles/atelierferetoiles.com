@@ -14,6 +14,7 @@
     <div class="relative overflow-hidden rounded">
       <img
         class="rounded group-hover:scale-110 transition duration-300 ease-in-out"
+        loading="lazy"
         src={cdnImageSrc({ url: img.src, h: 400, w: 300 })}
         alt={img.alt}
       />
