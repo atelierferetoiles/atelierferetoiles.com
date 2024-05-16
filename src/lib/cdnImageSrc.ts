@@ -1,3 +1,5 @@
+import { base } from '$app/paths';
+
 interface Options {
   url: string;
   w?: number;
@@ -5,14 +7,16 @@ interface Options {
   fit?: 'contain' | 'cover' | 'fill';
 }
 
+const rootUrl = base;
+
 const cdnImageSrc = (options: Options): string => {
-  if (!process.env.URL) {
+  if (!rootUrl) {
     return options.url;
   }
   const optionsStr = Object.entries(options)
     .map(([key, value]) => `${key}=${value}`)
     .join('&');
-  return `${process.env.URL}/.netlify/images?${optionsStr}`;
+  return `${rootUrl}/.netlify/images?${optionsStr}`;
 };
 
 export default cdnImageSrc;
