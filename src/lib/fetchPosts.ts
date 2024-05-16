@@ -1,10 +1,10 @@
 export interface Metadata {
   date: string;
   title: string;
-  chapo: string;
   draft: boolean;
-  smallImgSrc: string;
-  smallImgAlt: string;
+  imgSrcList: Array<{ src: string; alt?: string }>;
+  price: number;
+  body: string; // rich text
 }
 
 export interface PostData {
@@ -15,25 +15,19 @@ export interface PostData {
 }
 
 export const fetchMarkdownPosts = async (): Promise<PostData[]> => {
-  const allPostFiles = import.meta.glob<{ metadata: Metadata }>('../content/posts/*.md');
+  const allPostFiles = import.meta.glob<{ metadata: Metadata; default: any }>(
+    '../content/posts/*.md'
+  );
   const iterablePostFiles = Object.entries(allPostFiles);
 
   const allPosts = await Promise.all(
     iterablePostFiles.map(async ([path, resolver]) => {
-      const {
-        metadata: { date, chapo = '', smallImgSrc, smallImgAlt, title, draft = true },
-      } = await resolver();
+      const { metadata, default: body } = await resolver();
       const postPath = path.slice(17, -3);
 
       return {
-        metadata: {
-          date,
-          title,
-          draft,
-          chapo,
-          smallImgSrc,
-          smallImgAlt,
-        },
+        metadata,
+        body,
         path: postPath,
       };
     })

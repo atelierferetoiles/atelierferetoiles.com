@@ -7,6 +7,11 @@ export default defineConfig({
   branch,
   clientId: process.env.TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_CONTENT_TOKEN, // Get this from tina.io
+  // search: {
+  //   tina: {
+  //     indexerToken: process.env.TINA_SEARCH_TOKEN,
+  //   },
+  // },
 
   build: {
     outputFolder: 'admin',
@@ -54,151 +59,90 @@ export default defineConfig({
         ],
       },
       {
-        name: 'Bmx',
-        path: 'src/content/pages',
-        match: {
-          include: 'bmx',
-        },
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        format: 'md',
-        fields: [
-          { name: 'title', label: 'Titre', isTitle: true, type: 'string', required: true },
-          { name: 'text', label: 'Texte', isBody: true, type: 'rich-text', required: false },
-          {
-            name: 'images',
-            label: 'Images du carousel',
-            list: true,
-            type: 'object',
-            required: true,
-            fields: [
-              { name: 'src', label: 'Image', type: 'image', required: true },
-              { name: 'alt', label: 'Description', type: 'string', required: true },
-            ],
-          },
-          {
-            name: 'textareaDefault',
-            label: 'Valeur par défaut du champ Vos Exigences',
-            type: 'string',
-            component: 'textarea',
-            required: true,
-          },
-        ],
-      },
-      {
-        name: 'Vente',
-        path: 'src/content/pages',
-        match: {
-          include: 'vente',
-        },
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        format: 'md',
-        fields: [
-          { name: 'title', label: 'Titre', isTitle: true, type: 'string', required: true },
-          { name: 'text', label: 'Texte', isBody: true, type: 'rich-text', required: false },
-          { name: 'brandTitle', label: 'Titre - marques', type: 'string', required: false },
-          {
-            name: 'brands',
-            label: 'Marques',
-            type: 'object',
-            required: false,
-            list: true,
-            ui: {
-              itemProps: (item) => ({ label: item.alt }),
-            },
-            fields: [
-              { name: 'src', type: 'image', required: true, label: 'Image' },
-              { name: 'alt', label: 'description', required: true, type: 'string' },
-            ],
-          },
-        ],
-      },
-      {
-        name: 'Reparation',
-        path: 'src/content/pages',
-        match: {
-          include: 'reparation',
-        },
-        ui: {
-          allowedActions: {
-            create: false,
-            delete: false,
-          },
-        },
-        format: 'md',
-        fields: [
-          { name: 'title', label: 'Titre', isTitle: true, type: 'string', required: true },
-          { name: 'text', label: 'Texte', isBody: true, type: 'rich-text', required: false },
-        ],
-      },
-      {
         name: 'post',
-        label: 'Blog',
+        label: 'Réalisations',
         path: 'src/content/posts',
         defaultItem() {
           return {
             title: '',
-            date: new Date(),
             body: '',
-            chapo: '',
-            draft: true,
+            draft: false,
+            date: new Date().toISOString(),
           };
         },
         fields: [
           {
             type: 'string',
             name: 'title',
-            label: 'Title',
+            label: 'Titre',
             isTitle: true,
             required: true,
+          },
+          {
+            type: 'number',
+            name: 'price',
+            label: 'Prix (€)',
+            required: true,
+          },
+          {
+            label: 'Catégorie',
+            type: 'reference',
+            name: 'category',
+            collections: ['categories'],
+          },
+          {
+            type: 'object',
+            list: true,
+            name: 'imgSrcList',
+            label: 'Images',
+            required: true,
+            ui: {
+              itemProps: (item) => {
+                return { label: item?.alt };
+              },
+              min: 1,
+            },
+            fields: [
+              {
+                name: 'src',
+                label: 'Image',
+                type: 'image',
+                description: '2000*1500px',
+                required: true,
+              },
+              { name: 'alt', label: 'Description', type: 'string', required: true },
+            ],
+          },
+          {
+            type: 'rich-text',
+            name: 'body',
+            label: 'Description - texte',
+            isBody: true,
           },
           {
             type: 'datetime',
             name: 'date',
             label: 'Date',
-            required: true,
-          },
-          {
-            type: 'string',
-            name: 'chapo',
-            label: 'Chapô',
-            required: false,
-          },
-          {
-            type: 'image',
-            name: 'smallImgSrc',
-            label: 'Image de liste',
-            required: true,
-            description: 'Une image au format 320px*320px',
-          },
-          {
-            type: 'string',
-            name: 'smallImgAlt',
-            label: "description de l'image de liste",
-            required: true,
-          },
-          {
-            type: 'rich-text',
-            name: 'body',
-            label: 'Article',
-            isBody: true,
+            description: 'Utilisé pour trier les articles',
+            ui: {
+              timeFormat: 'HH:mm',
+            },
           },
           {
             type: 'boolean',
             name: 'draft',
             label: 'Brouillon',
             required: false,
+            description: 'Cache ou affiche un produit',
           },
         ],
+      },
+      {
+        name: 'categories',
+        label: 'Catégories de produits',
+        path: 'src/content/categories',
+        format: 'json',
+        fields: [{ name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true }],
       },
       {
         name: 'Footer',
