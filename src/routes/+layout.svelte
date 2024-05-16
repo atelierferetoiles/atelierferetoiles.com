@@ -23,10 +23,10 @@
 <svelte:head>
   <script type="application/ld+json">
     {
-      "@context" : "https://schema.org",
-      "@type" : "WebSite",
-      "name" : "Atelier Fer e'Toiles",
-      "url" : "https://atelierferetoiles.com/"
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "name": "Atelier Fer e'Toiles",
+      "url": "https://atelierferetoiles.com/"
     }
   </script>
   <link rel="dns-prefetch" href="//fonts.googleapis.com" />
@@ -34,7 +34,7 @@
   <link rel="preconnect" href="https://fonts.googleapis.com/" />
 
   <link
-    href="https://fonts.googleapis.com/css?family=Inter:400,700&display=swap"
+    href="https://fonts.googleapis.com/css?family=Work+Sans:400,700&display=swap"
     rel="stylesheet"
   />
 </svelte:head>
