@@ -21,7 +21,9 @@ const config = {
       strict: true,
     }),
     paths: {
-      base: process.env.URL,
+      ...(process.env.URL && {
+        assets: `${process.env.URL}/.netlify/images?src=`,
+      }),
     },
   },
   optimizeDeps: {
