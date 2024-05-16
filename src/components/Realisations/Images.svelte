@@ -9,7 +9,7 @@
   }
 </script>
 
-<div class="w-full mb-4">
+<div class="w-full max-h-[90vh] mb-4">
   <img class=" w-full" src={img.src} alt={img.alt} />
 </div>
 <div class="flex flex-row flex-wrap gap-4 px-4 sm:px-0">
