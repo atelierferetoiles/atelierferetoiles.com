@@ -46,7 +46,7 @@
 </script>
 
 <OffsetAnchor id={navLinks[1].id} />
-<section class="min-h-[60vh] bg-[#A3ABFB] pt-16 text-black">
+<section class="min-h-[60vh] pt-16 text-black">
   <div class="container m-auto max-w-7xl px-4 py-8 sm:py-12 md:px-8">
     <h2 class="mb-16 text-2xl antialiased">Contact</h2>
     <div class="flex flex-col gap-8 lg:flex-row lg:justify-between">
@@ -55,7 +55,7 @@
           <h5 class="mb-1">
             {item.label}
             <span class="copyButton transition-opacity">
-              <Copy className="inline text-darkblue" value={item.value} />
+              <Copy className="inline" value={item.value} />
             </span>
           </h5>
           <div class="font-semibold sm:whitespace-nowrap" class:hidden={item.hidden}>

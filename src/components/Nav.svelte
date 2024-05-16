@@ -29,14 +29,14 @@
     'flex p-2 sm:justify-center items-center uppercase text-neutral-200 whitespace-nowrap hover:text-blue-200 transition-colors hover:text-shadow hover:shadow-blue-700';
 </script>
 
-<div class="flex justify-center bg-[#333399]">
+<div class="flex justify-center bg-egyptianblue">
   <nav
-    class="container flex flex-col justify-between bg-[#333399] px-6 py-4 sm:flex-row sm:px-4 md:px-6"
+    class="container flex flex-col justify-between bg-egyptianblue px-6 py-4 sm:flex-row sm:px-4 md:px-6"
   >
     <div class="flex items-center justify-between pb-4 sm:pb-0">
       <div class="h-10 shrink-0">
         <a
-          class=" -mt-4 block shrink-0 rounded-b-full bg-neutral-200"
+          class=" -mt-4 block shrink-0 rounded-b-full bg-whitesmoke"
           href="/#top"
           on:click={closeMenu}
         >
@@ -45,7 +45,7 @@
       </div>
       <div class="block sm:hidden">
         <button
-          class="flex items-center rounded-full bg-stone-200 px-3 py-3 shadow-sm shadow-stone-200 transition-colors hover:text-blue-700"
+          class="flex items-center rounded-full bg-whitesmoke px-3 py-3 shadow-sm shadow-stone-200 transition-colors hover:text-egyptianblue"
           on:click={toggleMenu}
         >
           <svg class="h-3 w-3 fill-current" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg">

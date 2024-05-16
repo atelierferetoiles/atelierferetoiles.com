@@ -29,7 +29,7 @@
       class="absolute inset-0 h-[450px] w-full object-cover object-bottom"
     />
     <div class="">
-      <div class="bg-slate-200 bg-opacity-60 p-4 backdrop-blur">
+      <div class="bg-slate-200 rounded bg-opacity-60 p-4 backdrop-blur">
         <Horaires />
       </div>
     </div>

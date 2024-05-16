@@ -10,6 +10,11 @@ module.exports = {
     },
     extend: {
       colors: {
+        egyptianblue: '#333399',
+        blush: '#DB5375',
+        vistablue: '#8F95D3',
+        whitesmoke: '#F2F2F2',
+
         darkblue: '#23425A',
         duck: '#5A8DA8',
         lakeblue: '#D2DCE6',

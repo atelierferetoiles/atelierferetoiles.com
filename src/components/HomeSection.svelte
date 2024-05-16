@@ -22,7 +22,7 @@
   >
     {#if announcement}
       <div
-        class="absolute flex items-center justify-center font-bold left-0 right-0 top-0 py-4 px-2 sm:px-8 bg-slate-700 text-white text-xl text-center"
+        class="absolute flex items-center justify-center font-bold left-0 right-0 top-0 py-4 px-2 sm:px-8 bg-blush text-black text-xl text-center"
       >
         {announcement}
       </div>
@@ -34,7 +34,7 @@
       class="flex flex-grow flex-col items-end justify-center py-8 sm:py-4 md:px-8 xl:items-center"
     >
       <div class="px-4 py-8">
-        <p class="bg-slate-300 p-8">
+        <p class="bg-slate-300 rounded p-8">
           Le site est en cours de construction. Vous pouvez toujours nous <a
             href="#contact"
             class="font-semibold underline"

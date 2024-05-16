@@ -9,8 +9,8 @@
 </script>
 
 {#if img}
-  <a href={`realisations/${path}`}>
-    <img class="" src={img.src} alt={img.alt} />
-    <span class="text-center block">{title}</span>
+  <a class="group rounded hover:bg-" href={`realisations/${path}`}>
+    <img class="rounded" src={img.src} alt={img.alt} />
+    <span class="block px-2 group-hover:underline">{title}</span>
   </a>
 {/if}

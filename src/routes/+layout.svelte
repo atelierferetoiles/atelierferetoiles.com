@@ -43,10 +43,10 @@
   <header class="fixed top-0 z-50 w-full">
     <Nav />
   </header>
-  <main class="relative mt-16 sm:pt-2">
+  <main class="relative mt-16 pt-2 bg-whitesmoke">
     <slot />
   </main>
-  <footer class="mt-auto bg-[#A3ABFB]">
+  <footer class="mt-auto bg-vistablue">
     <Footer />
   </footer>
 </div>

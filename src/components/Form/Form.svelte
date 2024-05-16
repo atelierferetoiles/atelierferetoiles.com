@@ -81,7 +81,7 @@
 
   <button
     type="submit"
-    class="mr-4 inline-block rounded-sm bg-darkblue px-4 py-2 text-sm font-black uppercase text-white transition-colors hover:bg-duck"
+    class="mr-4 inline-block rounded-sm bg-blush px-4 py-2 text-sm font-black uppercase text-black transition-colors hover:bg-vistablue"
     >Envoyer</button
   >
 </form>
