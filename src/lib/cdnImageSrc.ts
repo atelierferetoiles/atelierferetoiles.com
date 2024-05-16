@@ -15,7 +15,7 @@ const cdnImageSrc = (options: Options): string => {
   const optionsStr = Object.entries(options)
     .map(([key, value]) => `${key}=${value}`)
     .join('&');
-  return `?${optionsStr}`;
+  return `https://atelierferetoiles.com/.netlify/images?${optionsStr}`;
 };
 
 export default cdnImageSrc;

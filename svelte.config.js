@@ -20,11 +20,6 @@ const config = {
       precompress: false,
       strict: true,
     }),
-    paths: {
-      ...(process.env.URL && {
-        assets: `${process.env.URL}/.netlify/images?src=`,
-      }),
-    },
   },
   optimizeDeps: {
     include: ['lodash.get', 'lodash.isequal', 'lodash.clonedeep'],
