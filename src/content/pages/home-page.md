@@ -16,4 +16,4 @@ Pour la décoration intérieure, j’utilise l’acier, l’inox, le cuivre et p
 
 Pour la décoration extérieure, je travaille principalement l’acier Corten, un acier auto-protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ».
 
-Ainsi je réalise toutes sortes d’animaux, des plantes d’ornement et même des arbres, ou encore des girouettes pour l’agrément original de votre jardin, si petit soit-il !"
+Ainsi je réalise toutes sortes d’animaux, des plantes d’ornement et même des arbres, ou encore des girouettes pour l’agrément original de votre jardin, si petit soit-il !
