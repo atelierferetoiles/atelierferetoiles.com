@@ -1,5 +1,5 @@
 ---
-title: ACI - Mini Colibri
+title: AC1 - Mini Colibri
 price: 10
 category: src/content/categories/Animaux.json
 imgSrcList:
