@@ -1,5 +1,5 @@
 ---
-title: GIR3 - Chat et papillon
+title: GIR3 - Cocq Français
 price: 145
 category: src/content/categories/Girouettes.json
 imgSrcList:
