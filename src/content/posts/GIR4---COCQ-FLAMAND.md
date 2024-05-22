@@ -1,5 +1,5 @@
 ---
-title: GIR4 - COCQ FLAMAND
+title: GIR4 - Cocq Flamand
 price: 145
 category: src/content/categories/Girouettes.json
 imgSrcList:
