@@ -7,7 +7,7 @@ imgSrcList:
     alt: dfsdf
   - src: /asset/image_footer.jpeg
     alt: azeaze
-  - src: /asset/AC1.JPG
+  - src: /asset/AC1 r.JPG
     alt: Mini Colibri
 date: 2024-05-17T22:25:00.000Z
 draft: false
