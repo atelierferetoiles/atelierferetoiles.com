@@ -1,12 +1,12 @@
 ---
-title: Produit 5
-price: 45
+title: AC5 - Poussin 2
+price: 10
+category: src/content/categories/Animaux.json
 imgSrcList:
-  - src: /asset/dummy_2000x1500_ffffff_cccccc.png
-    alt: Image du produit
+  - src: /asset/AC5 B.jpg
+    alt: AC5 - Poussin 2
 date: 2024-05-15T22:00:00.000Z
 draft: false
-category: src/content/categories/Autres.json
 ---
 
 Bonjour
