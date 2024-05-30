@@ -3,7 +3,9 @@
 
 Envie de découvrir le travail du métal et de la forge ? Intéressé à réaliser vous-même une œuvre en ferronnerie ?
 
-Inscrivez-vous ou offrez une "Journée d'Initiation à la Forge" personnalisée et adaptée à votre niveau d'expérience et votre projet. Vous repartez avec votre création !![](/asset/IMG_0470.jpg)
+Inscrivez vous ou offrez une "Journée d'Initiation à la Forge" personnalisée et adaptée à votre niveau d'expérience et votre projet. Vous repartez avec votre création !
+
+* ![](</asset/initiation 2.jpg>)
 
 Cette journée se déroule dans l'atelier de 9h à 17h, chacun apporte son casse-croute pour la pause déjeuner (micro-ondes à disposition).
 
@@ -18,3 +20,4 @@ Calendrier des journées d'initiation du 2èmes semestre 2024:
 * 21 septembre
 * 19 octobre
 * 16 novembre
+* ![](/asset/IMG_0470.jpg)
