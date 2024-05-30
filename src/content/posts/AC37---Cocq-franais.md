@@ -1,5 +1,5 @@
 ---
-title: AC37 - Cocq français
+title: AC37 - Coq français
 price: 60
 category: src/content/categories/Animaux.json
 imgSrcList:
