@@ -17,4 +17,4 @@ Calendrier des journées d'initiation du 2èmes semestre 2024:
 * 6 juillet
 * 21 septembre
 * 19 octobre
-* 16 novembre
+* 16 novembre![](/asset/IMG_0470.jpg)
