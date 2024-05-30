@@ -1,0 +1,11 @@
+---
+title: AC31 - Oie couchée
+price: 50
+category: src/content/categories/Animaux.json
+imgSrcList:
+  - src: /asset/AC31.JPG
+    alt: AC31 - Oie couchée
+date: 2024-05-30T12:23:57.166Z
+draft: false
+---
+
