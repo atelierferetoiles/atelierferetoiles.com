@@ -1,6 +1,6 @@
 ---
-title: AC26 - Papillon
-price: 40
+title: AC30 - Renard
+price: 60
 category: src/content/categories/Animaux.json
 imgSrcList:
   - src: /asset/AC34.jpg
