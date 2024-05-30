@@ -1,5 +1,5 @@
 ---
-title: AC6 - Oison timide
+title: AC6 - Oison éveillé
 price: 10
 category: src/content/categories/Animaux.json
 imgSrcList:
