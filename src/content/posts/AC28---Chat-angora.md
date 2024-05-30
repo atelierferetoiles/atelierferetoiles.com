@@ -1,5 +1,5 @@
 ---
-title: AC28 - Chat angora
+title: AC29 - Chat de gouttière
 price: 50
 category: src/content/categories/Animaux.json
 imgSrcList:
