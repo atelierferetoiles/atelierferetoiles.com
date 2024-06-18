@@ -9,3 +9,6 @@ date: 2024-05-30T12:45:34.180Z
 draft: false
 ---
 
+En acier Corten
+
+Hauteur 580mm (hors tige) x Largeur 875 mm
