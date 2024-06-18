@@ -9,3 +9,6 @@ date: 2024-05-30T10:50:14.064Z
 draft: false
 ---
 
+En acier Corten
+
+Hauteur 370mm x Largeur 265 mm
