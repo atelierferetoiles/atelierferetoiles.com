@@ -3,7 +3,7 @@
 
 Envie de découvrir le travail du métal et de la forge ? Intéressé à réaliser vous-même une œuvre en ferronnerie ?
 
-Inscrivez vous ou offrez une "Journée d'Initiation à la Forge" personnalisée et adaptée à votre niveau d'expérience et votre projet. Vous repartez avec votre création !
+Inscrivez vous ou offrez une "Journée d'Initiation à la Forge" personnalisée et adaptée à votre niveau d'expérience et à votre projet. Vous repartez avec votre création !
 
 * ![](</asset/initiation 2.jpg>)
 
@@ -13,7 +13,7 @@ J'accueille 2 à 3 stagiaires par session. Tarif: 90€ par personne (non compri
 
 Inscriptions et renseignements [par email ou téléphone](#contact "par email ou téléphone")
 
-Calendrier des journées d'initiation du 2èmes semestre 2024:
+Calendrier des journées d'initiation du 2ème semestre 2024:
 
 * 15 juin
 * 6 juillet
