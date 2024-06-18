@@ -9,3 +9,6 @@ date: 2024-06-18T14:32:30.996Z
 draft: false
 ---
 
+En acier Corten - 3 finitions au choix : métal naturel vernis ou peint coloris noir ou blanc
+
+Hauteur 
