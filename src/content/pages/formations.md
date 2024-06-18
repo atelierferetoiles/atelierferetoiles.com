@@ -15,8 +15,9 @@ Inscriptions et renseignements [par email ou téléphone](#contact "par email ou
 
 Calendrier des journées d'initiation du 2ème semestre 2024:
 
-* 15 juin
-* 6 juillet
+* 3 juillet
+* 3 août
+* 17 août
 * 21 septembre
 * 19 octobre
 * 16 novembre
