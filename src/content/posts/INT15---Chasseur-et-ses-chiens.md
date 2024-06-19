@@ -9,8 +9,8 @@ date: 2024-06-18T15:23:43.163Z
 draft: false
 ---
 
-En acier Corten 
+En acier Corten
 
-Taille L : Hauteur      mm x largeur    mm, épaisseur 3 mm - prix 140 € 
+Taille L : Hauteur 464 mm x largeur  696 mm, épaisseur 3 mm - prix 140 €
 
- finition métal naturel vernis 
+ finition métal naturel vernis
