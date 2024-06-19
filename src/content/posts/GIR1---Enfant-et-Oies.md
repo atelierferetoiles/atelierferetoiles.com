@@ -9,6 +9,6 @@ date: 2024-05-22T15:54:35.331Z
 draft: false
 ---
 
-Décor de la girouette et points cardinaux en acier Corten - flèche et volutes en acier standard, mécanisme (boule et bille) en inox
+Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
 
 Dimensions : Hauteur 1080 mm x largeur 760 mm
