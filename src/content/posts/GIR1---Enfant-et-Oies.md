@@ -9,6 +9,12 @@ date: 2024-05-22T15:54:35.331Z
 draft: false
 ---
 
-Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
+Girouette à fixer sur une cheminée, un piquet de clôture ou à la pointe d'un abri de jardin ou encore d'un garage. 
 
-Dimensions : Hauteur 1080 mm x largeur 760 mm
+Composition : 
+
+ Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
+
+**Dimensions : **
+
+Hauteur 1080 mm x largeur 760 mm
