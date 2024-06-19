@@ -11,4 +11,4 @@ draft: false
 
 En acier Corten - 3 finitions au choix : métal naturel vernis ou peint coloris noir ou blanc
 
-Hauteur 
+Hauteur 133mm x largeur 96 mm
