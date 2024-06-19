@@ -1,12 +1,14 @@
 ---
-title: AC2 - Mini Escargot
+title: AC2 - Petit Escargot
 price: 10
 category: src/content/categories/Animaux.json
 imgSrcList:
   - src: /asset/AC2 r.JPG
-    alt: 'AC2 - Mini Escargot '
+    alt: 'AC2 - Petit Escargot '
 date: 2024-05-15T22:00:00.000Z
 draft: false
 ---
 
-en acier Corten, à planter dans un pot de fleur
+en acier Corten, à planter dans un pot de fleur ou un bac à fleurs sur la terrasse
+
+Hauteur 133mm x largeur 96 mm
