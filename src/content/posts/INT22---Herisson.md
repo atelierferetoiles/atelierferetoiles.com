@@ -10,6 +10,6 @@ draft: false
 ---
 
 En acier Corten - 3 finitions au choix : métal naturel vernis, peint en noir ou aspect rouillé vernis
-coloris noir 
+coloris noir
 
-Hauteur 190 mm x largeur 300 mm, épaisseur 1.5 mm 
+Hauteur 190 mm x largeur 300 mm, épaisseur 3 mm
