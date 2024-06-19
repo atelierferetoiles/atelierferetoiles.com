@@ -13,7 +13,7 @@ Girouette à fixer sur une cheminée, un piquet de clôture ou à la pointe d'un
 
 Composition : 
 
- Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
+Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
 
 **Dimensions : **
 
