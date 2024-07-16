@@ -1,13 +1,15 @@
 
-## SHOWROOM
+Envie de vous faire plaisir ou de faire plaisir ? 
 
- 
+Passez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des expositions-ventes ci-dessous. 
 
-Envie de découvrir mes réalisations ? Un cadeau à offrir ? 
+Manque de disponibilité ? Dans ce cas, faites votre choix en consultant la page "REALISATIONS" et passez votre commande par mail à atelierferetoiles\@gmail.com en indiquant la référence de votre sélection et vos coordonnées. Je vous contacterez par retour afin de convenir des modalités de paiement et de livraison. 
 
-Le showroom de l’Atelier Fer E’Toiles est ouvert au public  tous les mardis et jeudis après-midi de 14 h à 18 h 30 ou à tout autre moment sur rendez-vous. 
+### SHOWROOM
 
-Sur place vous pourrez choisir, acheter ou commander tous types d’articles de décoration en métal. 
+Le showroom de l’Atelier Fer E’Toiles est ouvert au public  tous les mardis et jeudis après-midi de 14 h à 18 h 30 ou à tout autre moment sur rendez-vous.
+
+Sur place vous pourrez choisir, acheter ou commander tous types d’articles de décoration en métal.
 
 Une petite visite est l’occasion de m’exposer votre projet si vous avez une demande personnalisée !
 
@@ -15,13 +17,11 @@ Une petite visite est l’occasion de m’exposer votre projet si vous avez une 
 
  
 
-## EXPO-VENTES
+### EXPO-VENTES
 
- 
+Je participe à des salons et des expos-ventes tout au long de l’année.  
 
-Parallèlement, je participe à des salons et des expos-ventes tout au long de l’année.  
-
- Calendrier 2024
+** Calendrier 2024**
 
 ·       Fête des Plantes de Locon (62) – 23 et 24 mars 2024
 
