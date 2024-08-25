@@ -1,5 +1,6 @@
 <script lang="ts">
   import Form from '$components/Form/Form.svelte';
+  import { cn } from '$lib/cn';
   import collapse from '$lib/collapse';
   import ChevronDown from '../../icons/ChevronDown.svelte';
 
@@ -16,7 +17,9 @@
   <button class="py-2 text-left w-full" on:click={toggle}>
     <span class="flex justify-between text-egyptianblue">
       <span class="font-semibold"> Commander </span>
-      <ChevronDown />
+      <ChevronDown
+        className={cn('transition-transform ease-in-out duration-300', { 'rotate-180': open })}
+      />
     </span>
   </button>
 </div>
