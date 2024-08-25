@@ -3,7 +3,7 @@
   import type { PostData } from '$lib/fetchPosts';
   export let post: PostData;
   const {
-    metadata: { imgSrcList, title },
+    metadata: { imgSrcList = [], title },
     path,
   } = post;
   const [img] = imgSrcList;
@@ -17,7 +17,7 @@
         loading="lazy"
         width="640"
         height="480"
-        src={cdnImageSrc({ url: img.src, w: 640, h: 480 })}
+        src={cdnImageSrc({ url: img.src, w: 640, h: 480, fit: 'cover' })}
         alt={img.alt}
       />
     </div>
