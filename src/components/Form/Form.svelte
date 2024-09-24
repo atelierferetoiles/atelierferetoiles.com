@@ -7,6 +7,7 @@
 </script>
 
 <form name="commande" data-netlify="true" method="POST" class="max-w-md space-y-6">
+  <input type="hidden" name="form-name" value="commande" />
   <div>
     <Input
       value={productId}
