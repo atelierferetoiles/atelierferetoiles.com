@@ -15,15 +15,7 @@
 >
   <input type="hidden" name="form-name" value="commande" />
   <div>
-    <Input
-      value={productId}
-      name="produit"
-      id="produit"
-      type="text"
-      label="Produit"
-      disabled
-      hidden
-    />
+    <input value={productId} name="produit" id="produit" type="text" hidden />
   </div>
   <div class="grid sm:grid-cols-2 gap-x-4 gap-y-6">
     <Input
