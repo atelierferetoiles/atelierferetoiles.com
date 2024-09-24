@@ -14,9 +14,7 @@
   class="max-w-md space-y-6"
 >
   <input type="hidden" name="form-name" value="commande" />
-  <div>
-    <input value={productId} name="produit" id="produit" type="text" hidden />
-  </div>
+  <input value={productId} name="produit" id="produit" type="hidden" />
   <div class="grid sm:grid-cols-2 gap-x-4 gap-y-6">
     <Input
       name="prenom"
