@@ -6,7 +6,13 @@
   export let productId: string;
 </script>
 
-<form name="commande" data-netlify="true" method="POST" class="max-w-md space-y-6">
+<form
+  name="commande"
+  data-netlify="true"
+  method="POST"
+  action="/commande/succes"
+  class="max-w-md space-y-6"
+>
   <input type="hidden" name="form-name" value="commande" />
   <div>
     <Input

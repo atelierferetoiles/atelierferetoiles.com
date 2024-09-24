@@ -1,9 +1,7 @@
 <div class="flex min-h-[90vh] items-center justify-center bg-darkblue">
   <div class="max-w-[364px] rounded-sm bg-lakeblue p-4">
-    <h1 class="mb-6 text-2xl text-darkblue">Page introuvable</h1>
-    <p class="mb-6">
-      Il semble que vous ayez suivi un lien cassé ou entré une URL qui n'existe pas sur notre site.
-    </p>
+    <h1 class="mb-6 text-2xl text-darkblue">Commande envoyée</h1>
+    <p class="mb-6">Merci pour votre commande. Nous vous contacterons sous peu.</p>
 
     <a
       href="/"
