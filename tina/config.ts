@@ -23,6 +23,12 @@ export default defineConfig({
       publicFolder: 'static',
     },
   },
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_TOKEN,
+      stopwordLanguages: ['fra'],
+    },
+  },
   schema: {
     collections: [
       {
