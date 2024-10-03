@@ -14,6 +14,6 @@ coloris noir (taille M)
 
 Existe en 2 tailles :
 
-Taille M : Hauteur 255 mm x largeur 415 mm, épaisseur 1.5 mm - prix 50 € 
+Taille M : Hauteur 255 mm x largeur 415 mm, épaisseur 1.5 mm - prix 50 €
 
-Taille L : Hauteur 460 mm x largeur 746 mm, épaisseur 3 mm - prix 130 € 
+Taille L : Hauteur 460 mm x largeur 746 mm, épaisseur 3 mm - prix 130 €
