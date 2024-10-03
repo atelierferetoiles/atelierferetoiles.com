@@ -1,5 +1,5 @@
 ---
-photoHome: /asset/IMG_1533.JPG
+photoHome: /asset/INTROD.jpg
 subTitle: null
 announcement: SITE EN CONSTRUCTION
 ---
@@ -14,7 +14,7 @@ Ma capacité à créer, dessiner et réaliser moi-même des œuvres originales m
 
 Pour la décoration intérieure, j’utilise l’acier, l’inox, le cuivre et parfois l’aluminium pour réaliser tout type d’objets, en métal naturel vernis ou peint, et des tableaux de différentes tailles mettant en scène des animaux et/ou des enfants à titre d’exemple.![](/asset/INT49.JPG)
 
-Pour la décoration extérieure, je travaille principalement l’acier Corten, un acier auto-protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ».
+Pour la décoration extérieure, je travaille principalement l’acier Corten, un acier auto-protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ». Cerise sur le gâteau, cela ne nécessite aucun entretien ! Pas besoin de peindre ou de vernir ces réalisations prévues pour l'extérieur ni même de les rentrer pour l'hiver. En conclusion, pas besoin de les nourrir !
 
 Ainsi je réalise toutes sortes d’animaux, des plantes d’ornement et même des arbres, ou encore des girouettes pour l’agrément original de votre jardin, si petit soit-il !
 
