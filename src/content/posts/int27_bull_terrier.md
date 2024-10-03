@@ -1,6 +1,6 @@
 ---
 title: INT27 - Bull Terrier
-price: 50
+price: 45
 category: src/content/categories/Tableaux-dintrieur.json
 imgSrcList:
   - src: /asset/INT27.jpg
