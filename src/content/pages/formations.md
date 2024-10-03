@@ -13,11 +13,12 @@ J'accueille 2 à 3 stagiaires par session. Tarif: 90€ par personne (non compri
 
 Inscriptions et renseignements [par email ou téléphone](#contact "par email ou téléphone")
 
-Calendrier des journées d'initiation du 2ème semestre 2024:
+Calendrier des prochaines journées d'initiation 2024:
 
-* 3 août
-* 17 août
-* 21 septembre
-* 19 octobre
-* 16 novembre
-* ![](</asset/initiation 1.jpg>)
+* samedi 12 octobre
+* lundi 11 novembre
+* samedi 16 novembre
+* samedi 30 novembre
+* samedi 7 décembre
+* samedi 21 décembre![](</asset/initiation 1.jpg>)
+*
