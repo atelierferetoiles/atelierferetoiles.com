@@ -1,5 +1,5 @@
 ---
-title: AC30 - Renard
+title: AC34 - Renard
 price: 60
 category: src/content/categories/Animaux.json
 imgSrcList:
