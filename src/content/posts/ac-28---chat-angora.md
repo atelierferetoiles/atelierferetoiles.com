@@ -1,5 +1,5 @@
 ---
-title: AC 28 - Chat angora
+title: AC28 - Chat angora
 price: 50
 category: src/content/categories/Animaux.json
 imgSrcList:
