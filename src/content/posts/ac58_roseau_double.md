@@ -1,10 +1,10 @@
 ---
-title: AC58 - Roseau double
+title: FL6 - Roseau double
 price: 65
-category: src/content/categories/Animaux.json
+category: src/content/categories/Plantes-Arbres-Fleurs.json
 imgSrcList:
-  - src: /asset/AC58.jpg
-    alt: AC58 - Roseau double
+  - src: /asset/FL6.jpg
+    alt: FL6 - Roseau double
 date: 2024-10-03T14:28:53.583Z
 draft: false
 ---
