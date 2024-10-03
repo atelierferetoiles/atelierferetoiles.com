@@ -9,6 +9,8 @@ date: 2024-10-03T14:19:16.000Z
 draft: false
 ---
 
-En acier Corten
+En acier Corten. A fixer sur un mur ou pignon de façade par exemple. 
 
-Prix unitaire. 4 Modèles différents : grue en vol 1, 2, 3 ou 4
+le prix indiqué est pour une grue en vol, quel que soit le modèle 
+
+4 Modèles différents : grue en vol 1, 2, 3 ou 4
