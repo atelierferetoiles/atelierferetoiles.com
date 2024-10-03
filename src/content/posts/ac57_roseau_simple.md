@@ -1,7 +1,7 @@
 ---
 title: FL5 - Roseau simple
 price: 50
-category: src/content/categories/Animaux.json
+category: src/content/categories/Plantes-Arbres-Fleurs.json
 imgSrcList:
   - src: /asset/FL5.jpg
     alt: FL5 - Roseau simple
