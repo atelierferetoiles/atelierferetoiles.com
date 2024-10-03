@@ -1,6 +1,6 @@
 ---
 title: INT48 - Montagne Marcheurs
-price: 40
+price: 50
 category: src/content/categories/Tableaux-dintrieur.json
 imgSrcList:
   - src: /asset/INT48.jpg
@@ -9,10 +9,11 @@ date: 2024-10-03T15:35:14.119Z
 draft: false
 ---
 
-En acier Corten, 2 formats disponibles :
+En acier Corten - 2 finitions au choix selon la taille : métal naturel vernis (taille M et L) ou peint
+coloris noir (taille M)
 
-Taille L : xxxx mm x xxxx mmm à 130€, épaisseur 3 mm
+Existe en 2 tailles :
 
-Taille M :                                          40 €, épaisseur 1.5 mm
+Taille M : Hauteur 255 mm x largeur 415 mm, épaisseur 1.5 mm - prix 50 €
 
-2 Coloris disponibles : métal naturel vernis ou noir métal
+Taille L : Hauteur 460 mm x largeur 746 mm, épaisseur 3 mm - prix 130 €
