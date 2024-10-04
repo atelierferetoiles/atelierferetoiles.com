@@ -1,7 +1,7 @@
 ---
 title: INT49 - Voilier FAIT MAIN Taille XL
 price: 320
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/articles-dcoratifs.json
 imgSrcList:
   - src: /asset/INT49.jpg
     alt: INT49 - Voilier taille XL
