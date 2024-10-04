@@ -1,7 +1,7 @@
 ---
 title: INT34 - Chat de gouttière
 price: 50
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT34.jpg
     alt: INT34 - Chat de gouttière
