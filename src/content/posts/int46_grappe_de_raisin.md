@@ -1,7 +1,7 @@
 ---
 title: INT46 - Grappe de raisin
 price: 70
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT46.jpg
     alt: INT46 - Grappe de raisin
