@@ -1,7 +1,7 @@
 ---
 title: INT50 - Voilier taille M
 price: 80
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/articles-dcoratifs.json
 imgSrcList:
   - src: /asset/INT50.jpg
     alt: INT50 - Voilier taille M
