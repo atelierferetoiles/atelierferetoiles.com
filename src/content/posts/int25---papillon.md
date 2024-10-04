@@ -1,7 +1,7 @@
 ---
 title: INT25 - Papillon
 price: 40
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT25.jpg
     alt: INT25 - Papillon
@@ -11,4 +11,4 @@ draft: false
 
 En acier Corten - 2 finitions au choix : métal naturel vernis ou peint coloris noir métallisé
 
-Hauteur 190 mm x largeur 290 mm, épaisseur 3 mm 
+Hauteur 190 mm x largeur 290 mm, épaisseur 3 mm
