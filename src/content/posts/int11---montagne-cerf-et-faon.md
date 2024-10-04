@@ -1,7 +1,7 @@
 ---
 title: INT11 - Montagne Cerf et faon
 price: 50
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT11 B.jpg
     alt: INT11 - Montagne Cerf et faon
