@@ -1,7 +1,7 @@
 ---
 title: INT45 - Sous verre en inox
 price: 10
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/articles-dcoratifs.json
 imgSrcList:
   - src: /asset/INT45.jpg
     alt: INT45 - Sous verre en Inox
