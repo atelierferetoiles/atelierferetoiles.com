@@ -1,5 +1,5 @@
 ---
-title: PC10 - MONTAGNE CERF
+title: PC10 - Montagne cerf
 price: 30
 category: src/content/categories/porte-cls-et-autres-supports.json
 imgSrcList:
