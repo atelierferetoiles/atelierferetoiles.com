@@ -1,6 +1,6 @@
 ---
 photoHome: /asset/INTROD.jpg
-subTitle: Le Savoir-"Fer" d'un artisan des Hauts de France !
+subTitle: Le Savoir-"Fer" de votre artisan des Hauts de France !
 announcement: 'Prochaine expo-vente : Marché des créateurs à Annezin les 2 et 3 novembre 2024'
 ---
 
