@@ -1,7 +1,7 @@
 ---
 title: INT39 - Grenouille
 price: 30
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT54.jpg
     alt: INT39 - Grenouille
