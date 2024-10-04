@@ -5,9 +5,10 @@ category: src/content/categories/Animaux.json
 imgSrcList:
   - src: ''
     alt: AC46 - Tête de Cheval
-date: 2024-05-30T12:41:52.997Z
+date: '2024-05-30T12:41:52.997Z'
 draft: false
 ---
+
 
 En acier Corten, épaisseur 3 mm
 
