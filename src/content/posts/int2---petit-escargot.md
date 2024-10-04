@@ -1,7 +1,7 @@
 ---
 title: INT2 - Petit escargot
 price: 15
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT2B.jpg
     alt: INT2 - Petit Escargot
