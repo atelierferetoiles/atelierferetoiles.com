@@ -21,13 +21,13 @@ Une petite visite est l’occasion de m’exposer votre projet si vous avez une 
 
 Je participe à des salons et des expos-ventes tout au long de l’année.  
 
-\*\* Calendrier 2024\*\*
+### **\*\* Calendrier 2024\*\***
 
 ·       Fête des Plantes de Locon (62) – 23 et 24 mars 2024
 
 ·       Fête du Jardin d’Horticulture de Soissons (02) – 27 et 28 avril 2024
 
-·     Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
+·       Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
 
 ·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) –  vendredi 5 Juillet et vendredi 2 août 2024
 
