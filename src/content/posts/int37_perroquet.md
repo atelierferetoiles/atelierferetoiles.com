@@ -1,7 +1,7 @@
 ---
 title: INT37 - Perroquet
 price: 40
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT37.jpg
     alt: INT37 - Perroquet
