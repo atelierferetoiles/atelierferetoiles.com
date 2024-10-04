@@ -1,7 +1,7 @@
 ---
 title: INT38 - Tête de Girafe
 price: 50
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT38.jpg
     alt: INT38 - Tête de Girafe
