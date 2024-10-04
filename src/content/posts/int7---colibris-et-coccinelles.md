@@ -1,14 +1,13 @@
 ---
 title: INT7 - Colibris et coccinelles
 price: 50
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT7.jpg
     alt: INT7 - Colibris et coccinelles
-date: '2024-06-18T14:56:15.651Z'
+date: 2024-06-18T14:56:15.651Z
 draft: false
 ---
-
 
 En acier Corten - coloris noir
 
