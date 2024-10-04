@@ -1,7 +1,7 @@
 ---
 title: INT30 - Labrador
 price: 45
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT30.jpg
     alt: INT30 - Labrador
