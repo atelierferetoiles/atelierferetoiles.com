@@ -13,7 +13,7 @@ Sur place vous pourrez choisir, acheter ou commander tous types d’articles de 
 
 Une petite visite est l’occasion de m’exposer votre projet si vous avez une demande personnalisée !
 
- ![](</asset/SHOWROOM a.jpg>)![](</asset/SHOWROOM b.jpg>)
+ ![](</asset/show room 1.png>)
 
  
 
@@ -41,4 +41,4 @@ Je participe à des salons et des expos-ventes tout au long de l’année.  
 
 ·       Marché de Noël d'Estaires (59) - 13, 14 et 15 décembre 2024
 
-![](</asset/expo 1.jpg>)![](</asset/expo 2.jpg>)
+![](</asset/expo vente 2.png>)
