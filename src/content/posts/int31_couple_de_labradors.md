@@ -1,7 +1,7 @@
 ---
 title: INT31 - Couple de labradors
 price: 60
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT31.jpg
     alt: INT31 - Couple de labradors
