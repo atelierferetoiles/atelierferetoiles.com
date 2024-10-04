@@ -1,7 +1,7 @@
 ---
 photoHome: /asset/INTROD.jpg
 subTitle: null
-announcement: SITE EN CONSTRUCTION
+announcement: ''
 ---
 
 Artiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’année à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
