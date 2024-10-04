@@ -1,7 +1,7 @@
 ---
 title: INT22 - Herisson
 price: 30
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT22.jpg
     alt: INT22 - Herisson
