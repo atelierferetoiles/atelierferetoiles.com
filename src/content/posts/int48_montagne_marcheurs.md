@@ -1,7 +1,7 @@
 ---
 title: INT48 - Montagne Marcheurs
 price: 50
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT48.jpg
     alt: INT48 - Montagne Marcheurs
