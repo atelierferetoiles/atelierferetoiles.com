@@ -1,7 +1,7 @@
 ---
 title: INT36 - Fleur de Lotus
 price: 40
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT36.jpg
     alt: INT36 - Fleur de lotus
