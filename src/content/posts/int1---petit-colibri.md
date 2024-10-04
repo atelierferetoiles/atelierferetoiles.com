@@ -1,7 +1,7 @@
 ---
 title: INT1 - Petit Colibri
 price: 15
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT1B.jpg
     alt: INT1 - Petit Colibri
