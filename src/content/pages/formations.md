@@ -11,9 +11,11 @@ Cette journée se déroule dans l'atelier de 9h à 17h, chacun apporte son casse
 
 J'accueille 2 à 3 stagiaires par session. Tarif: 90€ par personne (non compris les fournitures requises en cas de réalisation d'une girouette par exemple).
 
+Mesdames, cette formation vous est également adressée !   Plusieurs créations réalisables pendant la journée de formation ne requièrent pas de force particulière dans les bras ou les poignets. 
+
 Inscriptions et renseignements [par email ou téléphone](#contact "par email ou téléphone")
 
-Calendrier des prochaines journées d'initiation 2024:
+### **Calendrier des prochaines journées d'initiation 2024:**
 
 * samedi 12 octobre
 * lundi 11 novembre
