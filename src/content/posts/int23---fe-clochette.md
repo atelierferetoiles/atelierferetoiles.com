@@ -3,7 +3,7 @@ title: INT23 - Fée clochette
 price: 30
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/int23 (3).jpg
+  - src: /asset/INT23.jpg
     alt: INT23 - Fée clochette
 date: 2024-06-19T12:38:02.719Z
 draft: false
