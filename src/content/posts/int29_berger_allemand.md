@@ -1,7 +1,7 @@
 ---
 title: INT29 - Berger Allemand
 price: 45
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT29.jpg
     alt: INT29 - Berger Allemand
