@@ -3,8 +3,8 @@ title: DEC42 - Sapin de Noël de table
 price: 80
 category: src/content/categories/articles-dcoratifs.json
 imgSrcList:
-  - src: /asset/DEC42.jpg
-    alt: DEC42 - Sapin de Noël de table
+  - src: /asset/INT42.jpg
+    alt: INT42 - Sapin de Noël de table
 date: 2024-10-03T15:23:05.949Z
 draft: false
 ---
