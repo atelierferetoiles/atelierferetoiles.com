@@ -1,9 +1,10 @@
 ---
-title: INT55 - Cheval et Border Collie
-price: 145
+title: INT39 - Cheval et Border Collie
+price: 130
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - alt: INT55 - Cheval et Border Collie
+  - src: /asset/INT39 C.jpg
+    alt: INT39 - Cheval et Border Collie
 date: 2024-06-19T12:02:27.710Z
 draft: false
 ---
