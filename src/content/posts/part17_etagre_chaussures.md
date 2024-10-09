@@ -1,6 +1,7 @@
 ---
 title: PART17 - Etagère à chaussures
 price: 0
+category: src/content/categories/Autres.json
 imgSrcList:
   - src: /asset/PART17.jpg
     alt: PART17 - Etagère à chaussures
