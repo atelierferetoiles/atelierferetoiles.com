@@ -15,4 +15,4 @@ Existe en 2 tailles :
 
 Taille M : Hauteur 355 mm x largeur 300 mm, épaisseur 1.5 mm - prix 50 €
 
-Taille L : Hauteur 625 mm x largeur 530 mm, épaisseur 3 mm - prix 110 €
+Taille L : Hauteur 625 mm x largeur 530 mm, épaisseur 3 mm - prix 120 €
