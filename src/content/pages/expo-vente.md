@@ -1,9 +1,11 @@
 
-Envie de vous faire plaisir ou de faire plaisir ?![>](</asset/oiseau stylisé.jpg>)
+**E**nvie de vous faire plaisir ou de faire plaisir ?
 
-Passez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des expositions-ventes ci-dessous.
+![>](</asset/oiseau stylisé.jpg>)
 
-Manque de disponibilité ? Dans ce cas, faites votre choix en consultant la page "REALISATIONS" et passez votre commande par mail à [atelierferetoiles@gmail.com](mailto:atelierferetoiles@gmail.com) en indiquant la référence de votre sélection et vos coordonnées. Je vous contacterez par retour afin de convenir des modalités de paiement et de livraison.
+**P**assez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des Expositions Ventes ci-dessous.
+
+Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, faites votre choix en consultant la page **"REALISATIONS"**. En cliquant sur la photo d'un article vous accédez à son descriptif et à son prix. Le bouton **"ENVIE DE COMMANDER OU BESOIN D'INFOS**" vous permet de me faire part de votre demande (pas de commande directement depuis le site). Sinon, passez votre commande par mail à [atelierferetoiles@gmail.com](mailto:atelierferetoiles@gmail.com) en précisant bien la référence de votre sélection et vos coordonnées. Je vous contacterai par retour afin de convenir des modalités de paiement et de livraison.
 
 ### SHOWROOM
 
