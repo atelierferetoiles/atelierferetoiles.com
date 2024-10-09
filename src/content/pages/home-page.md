@@ -1,5 +1,5 @@
 ---
-photoHome: /asset/JM DEVANT ATELIER.jpg
+photoHome: /asset/photo accueil.jpg
 subTitle: Le Savoir-"Fer" de votre artisan des Hauts de France !
 announcement: >-
   Prochaine expo-vente : Marché du Terroir et de l'Artisanat à Annezin les 2 et
