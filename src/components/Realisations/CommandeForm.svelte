@@ -10,13 +10,18 @@
   const toggle = () => {
     open = !open;
   };
+
+  $: open_class = open ? '' : 'bg-princeton_orange';
 </script>
 
 <div>
   <!-- <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" /> -->
-  <button class="py-2 text-left w-full" on:click={toggle}>
-    <span class="flex justify-between text-egyptianblue">
-      <span class="font-semibold"> Commander </span>
+  <button
+    class="{open_class} py-2 px-2 rounded-lg text-left border-2 border-princeton_orange hover:bg-blush hover:border-blush transition-colors"
+    on:click={toggle}
+  >
+    <span class="flex justify-between">
+      <span class="font-semibold text-black">ENVIE DE COMMANDER OU BESOIN D’INFOS</span>
       <ChevronDown
         className={cn('transition-transform ease-in-out duration-300', { 'rotate-180': open })}
       />
@@ -24,6 +29,6 @@
   </button>
 </div>
 
-<div class="border-t border-gray-400" use:collapse={{ open, duration: 0.2, easing: 'ease' }}>
+<div class="" use:collapse={{ open, duration: 0.2, easing: 'ease' }}>
   <Form {productId} />
 </div>

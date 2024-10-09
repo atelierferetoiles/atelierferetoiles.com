@@ -63,7 +63,7 @@
   <div class=" px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse">
     <button
       type="submit"
-      class="w-full inline-flex justify-center border border-transparent shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:ml-3 sm:w-auto sm:text-sm rounded-sm bg-blush px-4 py-2 text-sm font-black uppercase text-black transition-colors hover:bg-vistablue"
+      class="w-full inline-flex justify-center border border-transparent shadow-sm focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-blue-500 sm:ml-3 sm:w-auto sm:text-sm rounded-sm bg-princeton_orange px-4 py-2 text-sm font-black uppercase text-black transition-colors hover:bg-blush"
       >Envoyer</button
     >
   </div>
