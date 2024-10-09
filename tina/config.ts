@@ -211,7 +211,38 @@ export default defineConfig({
         label: 'Catégories de produits',
         path: 'src/content/categories',
         format: 'json',
-        fields: [{ name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true }],
+        fields: [
+          { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          {
+            label: 'Groupe de catégorie',
+            type: 'reference',
+            name: 'group_category',
+            collections: ['group_categories'],
+          },
+          {
+            label: "Numéro d'ordre",
+            type: 'number',
+            description: 'Les catégories seront rangées du plus petit numéro au plus grand.',
+            name: 'order',
+            required: true,
+          },
+        ],
+      },
+      {
+        name: 'group_categories',
+        label: 'Groupe de catégories de produits',
+        path: 'src/content/group_categories',
+        format: 'json',
+        fields: [
+          { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          {
+            label: "Numéro d'ordre",
+            description: 'Les catégories seront rangées du plus petit numéro au plus grand.',
+            type: 'number',
+            name: 'order',
+            required: true,
+          },
+        ],
       },
       {
         name: 'Footer',

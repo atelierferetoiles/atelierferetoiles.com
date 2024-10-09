@@ -1,3 +1,5 @@
 {
-  "name": "Girouettes"
+  "name": "Girouettes",
+  "group_category": "src/content/group_categories/Dcoration-Extrieure.json",
+  "order": 11
 }

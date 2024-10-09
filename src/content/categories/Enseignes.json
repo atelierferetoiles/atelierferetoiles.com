@@ -1,3 +1,5 @@
 {
-  "name": "Enseignes"
+  "name": "Enseignes",
+  "group_category": "src/content/group_categories/Ralisations-Personnalises.json",
+  "order": 30
 }

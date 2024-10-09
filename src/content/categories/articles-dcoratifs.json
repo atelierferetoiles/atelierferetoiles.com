@@ -1,3 +1,5 @@
 {
-  "name": "Articles décoratifs"
+  "name": "Articles décoratifs",
+  "group_category": "src/content/group_categories/Dcoration-Intrieure.json",
+  "order": 28
 }

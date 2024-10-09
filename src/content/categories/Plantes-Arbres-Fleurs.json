@@ -1,3 +1,5 @@
 {
-  "name": "Plantes Arbres Fleurs"
+  "name": "Plantes Arbres Fleurs",
+  "group_category": "src/content/group_categories/Dcoration-Extrieure.json",
+  "order": 17
 }
