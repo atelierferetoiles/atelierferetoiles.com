@@ -1,7 +1,9 @@
 ---
-photoHome: /asset/INTROD.jpg
+photoHome: /asset/JM DEVANT ATELIER.jpg
 subTitle: Le Savoir-"Fer" de votre artisan des Hauts de France !
-announcement: 'Prochaine expo-vente : Marché des créateurs à Annezin les 2 et 3 novembre 2024'
+announcement: >-
+  Prochaine expo-vente : Marché du Terroir et de l'Artisanat à Annezin les 2 et
+  3 novembre 2024
 ---
 
 **A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’année à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
