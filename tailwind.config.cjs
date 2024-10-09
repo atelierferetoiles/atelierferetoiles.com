@@ -12,6 +12,7 @@ module.exports = {
       colors: {
         egyptianblue: '#333399',
         blush: '#D99D85',
+        princeton_orange: "#ff9933",
         vistablue: '#8F95D3',
         whitesmoke: '#F2F2F2',
 
