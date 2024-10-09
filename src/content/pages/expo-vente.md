@@ -1,5 +1,5 @@
 
-Envie de vous faire plaisir ou de faire plaisir ?![](</asset/oiseau stylisé.jpg>)
+Envie de vous faire plaisir ou de faire plaisir ?![>](</asset/oiseau stylisé.jpg>)
 
 Passez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des expositions-ventes ci-dessous.
 
