@@ -1,10 +1,10 @@
 ---
-title: INT39 - Grenouille
+title: INT54 - Grenouille
 price: 30
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT54.jpg
-    alt: INT39 - Grenouille
+    alt: INT54 - Grenouille
 date: 2024-10-03T15:52:26.620Z
 draft: false
 ---
