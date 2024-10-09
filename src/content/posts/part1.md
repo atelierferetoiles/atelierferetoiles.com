@@ -1,5 +1,5 @@
 ---
-title: PART1
+title: PART1 - La Niche
 price: 0
 category: src/content/categories/Enseignes.json
 imgSrcList:
@@ -9,4 +9,4 @@ date: 2024-10-09T04:44:35.837Z
 draft: false
 ---
 
-Enseigne réalisée pour un gîte
+Enseigne réalisée pour le gîte "La Niche" à Vieille-Chapelle
