@@ -1,7 +1,7 @@
 ---
 title: AC16 - Tortue
 price: 25
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC16.jpg
     alt: AC16 - Tortue

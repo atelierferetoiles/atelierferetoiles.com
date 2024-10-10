@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { PostData } from '$lib/fetchPosts';
+  import type { PostData } from '$lib/posts';
   import CommandeForm from './CommandeForm.svelte';
   export let post: PostData;
   export let Body: any;

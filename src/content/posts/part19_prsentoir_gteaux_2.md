@@ -1,7 +1,7 @@
 ---
 title: PART19 - Présentoir à gâteaux 2
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART19.jpg
     alt: PART19 - Présentoir à gâteaux 2

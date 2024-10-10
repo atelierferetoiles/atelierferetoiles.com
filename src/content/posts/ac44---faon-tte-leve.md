@@ -1,7 +1,7 @@
 ---
 title: AC44 - Faon tête levée
 price: 90
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC44.jpg
     alt: AC44 - Faon tête levée

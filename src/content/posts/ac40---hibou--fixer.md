@@ -1,7 +1,7 @@
 ---
 title: AC40 - Hibou à fixer
 price: 65
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC40.JPG
     alt: AC40 - Hibou à fixer

@@ -1,7 +1,7 @@
 ---
 title: PART6 - Clé sésame
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART6.jpg
     alt: PART6 - Clé Sésame

@@ -1,7 +1,7 @@
 ---
 title: AC41 - Héron
 price: 70
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC41.JPG
     alt: AC41 - Héron

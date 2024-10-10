@@ -1,7 +1,7 @@
 ---
 title: AC43 - RAPACE
 price: 80
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC43.JPG
     alt: AC43 - RAPACE

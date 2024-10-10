@@ -1,7 +1,7 @@
 ---
 title: AC48 - Sanglier
 price: 150
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC48.jpg
     alt: AC48 - Sanglier

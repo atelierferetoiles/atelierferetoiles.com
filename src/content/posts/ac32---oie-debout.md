@@ -1,7 +1,7 @@
 ---
 title: AC32 - Oie debout
 price: 60
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC32.jpg
     alt: AC32 - Oie debout

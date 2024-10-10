@@ -1,7 +1,7 @@
 ---
 title: AC51 - Lynx
 price: 150
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC51.jpg
     alt: AC51 - Lynx

@@ -1,7 +1,7 @@
 ---
 title: AC65 - Border Collie
 price: 90
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC65.jpg
     alt: AC65 - Border Collie

@@ -1,7 +1,7 @@
 ---
 title: PC1 - Danseurs
 price: 20
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC1.jpg
     alt: PC1 - Danseurs

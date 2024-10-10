@@ -1,7 +1,7 @@
 ---
 title: PART1 - La Niche
 price: 0
-category: src/content/categories/Enseignes.json
+category: src/content/categories/enseignes.json
 imgSrcList:
   - src: /asset/PART1.jpg
     alt: PART1 - La Niche

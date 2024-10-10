@@ -1,7 +1,7 @@
 ---
 title: AC3 - Petit Papillon
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC3 r.JPG
     alt: AC3 - Petit Papillon

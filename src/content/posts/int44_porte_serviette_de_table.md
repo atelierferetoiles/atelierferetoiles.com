@@ -1,7 +1,7 @@
 ---
 title: INT44 - Porte serviette de table
 price: 20
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/INT44.jpg
     alt: INT44 - Porte Serviette de table

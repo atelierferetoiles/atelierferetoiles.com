@@ -1,7 +1,7 @@
 ---
 title: INT47 - Arbre à Bijoux
 price: 35
-category: src/content/categories/articles-dcoratifs.json
+category: src/content/categories/articles-decoratifs.json
 date: 2024-10-04T14:15:08.172Z
 draft: false
 ---

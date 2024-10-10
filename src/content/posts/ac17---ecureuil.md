@@ -1,7 +1,7 @@
 ---
 title: AC17 - Ecureuil
 price: 30
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC17.jpg
     alt: AC17 - Ecureuil

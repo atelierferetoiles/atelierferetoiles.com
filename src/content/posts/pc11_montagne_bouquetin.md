@@ -1,7 +1,7 @@
 ---
 title: PC11 - Montagne bouquetin
 price: 30
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC11.jpg
     alt: PC11 - Montagne bouquetin

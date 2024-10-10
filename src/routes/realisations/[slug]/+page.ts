@@ -1,9 +1,8 @@
 import cdnImageSrc from '$lib/cdnImageSrc.js';
-import { fetchMarkdownPosts } from '$lib/fetchPosts';
+import { fetchSinglePost } from '$lib/posts';
 
 export async function load({ params: { slug } }) {
-  const posts = await fetchMarkdownPosts();
-  const post = posts.find(({ path }) => path === slug);
+  const post = await fetchSinglePost(slug);
   if (!post) {
     throw new Error('no post');
   }

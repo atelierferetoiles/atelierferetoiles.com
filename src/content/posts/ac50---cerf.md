@@ -1,7 +1,7 @@
 ---
 title: AC50 - Cerf
 price: 380
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC50.jpg
     alt: AC50 - Cerf

@@ -1,7 +1,7 @@
 ---
 title: GIR13 - Carpe et pécheur
 price: 145
-category: src/content/categories/Girouettes.json
+category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR13B.jpg
     alt: GIR13 - Carpe et pécheur

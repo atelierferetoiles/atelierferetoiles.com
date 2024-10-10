@@ -8,7 +8,7 @@
 
 <style>
   span {
-    animation: bandeau 15s linear infinite;
+    animation: bandeau 20s linear infinite;
   }
   div:hover span {
     animation-play-state: paused;

@@ -1,7 +1,7 @@
 ---
 title: AC24 - Poule tête levée
 price: 45
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC24.JPG
     alt: AC24 - Poule tête levée

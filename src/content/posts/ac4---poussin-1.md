@@ -1,7 +1,7 @@
 ---
 title: AC4 - Poussin 1
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC4.JPG
     alt: AC4 - Poussin 1

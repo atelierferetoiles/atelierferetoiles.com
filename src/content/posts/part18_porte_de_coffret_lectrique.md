@@ -1,7 +1,7 @@
 ---
 title: PART18 - Porte de coffret électrique
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART18.jpg
     alt: PART18 - Porte de coffret électrique

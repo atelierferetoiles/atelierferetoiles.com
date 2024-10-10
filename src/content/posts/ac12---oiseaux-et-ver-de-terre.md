@@ -1,7 +1,7 @@
 ---
 title: AC12 - Oiseaux et ver de terre
 price: 20
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC12.jpg
     alt: AC12 - Oiseaux et ver de terre

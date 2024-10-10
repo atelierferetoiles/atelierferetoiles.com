@@ -1,7 +1,7 @@
 ---
 title: AC27 - Corbeau
 price: 45
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC27.jpg
     alt: AC27 - Corbeau

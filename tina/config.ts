@@ -227,6 +227,19 @@ export default defineConfig({
             required: true,
           },
         ],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return values.title
+                .toString()
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s-]/g, '') // remove non-word [a-z0-9_], non-whitespace, non-hyphen characters
+                .replace(/[\s_-]+/g, '_') // swap any length of whitespace, underscore, hyphen characters with a single _
+                .replace(/^-+|-+$/g, ''); // remove leading, trailing -
+            },
+          },
+        },
       },
       {
         name: 'group_categories',
@@ -243,6 +256,20 @@ export default defineConfig({
             required: true,
           },
         ],
+        ui: {
+          filename: {
+            readonly: false,
+            slugify: (values) => {
+              return values.title
+                .toString()
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s-]/g, '') // remove non-word [a-z0-9_], non-whitespace, non-hyphen characters
+                .replace(/[\s_-]+/g, '_') // swap any length of whitespace, underscore, hyphen characters with a single _
+                .replace(/^-+|-+$/g, ''); // remove leading, trailing -
+            },
+          },
+        },
       },
       {
         name: 'Footer',

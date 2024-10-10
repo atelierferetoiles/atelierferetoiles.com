@@ -1,7 +1,7 @@
 ---
 title: AC38 - Coq Flamand
 price: 70
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC38.JPG
     alt: AC38 - Coq Flamand

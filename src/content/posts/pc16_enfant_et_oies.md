@@ -1,7 +1,7 @@
 ---
 title: PC16 - Enfant et oies
 price: 30
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC16.jpg
     alt: PC16 - Enfant et oies

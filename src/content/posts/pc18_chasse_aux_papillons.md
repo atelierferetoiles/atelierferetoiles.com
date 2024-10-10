@@ -1,7 +1,7 @@
 ---
 title: PC18 - Chasse aux papillons
 price: 30
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC18.jpg
     alt: PC18 - Chasse aux papillons

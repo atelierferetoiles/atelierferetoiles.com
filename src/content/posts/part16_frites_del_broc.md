@@ -1,7 +1,7 @@
 ---
 title: PART16 - Frites Del Broc
 price: 0
-category: src/content/categories/Enseignes.json
+category: src/content/categories/enseignes.json
 imgSrcList:
   - src: /asset/PART16B.jpg
     alt: PART16 - Frites Del Broc

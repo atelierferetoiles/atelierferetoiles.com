@@ -1,7 +1,7 @@
 ---
 title: PC4 - Chapelle de Noël
 price: 17
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC4.jpg
     alt: PC4 - Chapelle de Noël

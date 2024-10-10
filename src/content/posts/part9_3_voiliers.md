@@ -1,7 +1,7 @@
 ---
 title: PART9 - 3 VOILIERS
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART9.jpg
     alt: PART9 - 3 Voiliers

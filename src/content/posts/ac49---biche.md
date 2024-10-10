@@ -1,7 +1,7 @@
 ---
 title: AC49 - Biche
 price: 280
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC49.jpg
     alt: AC49 - Biche

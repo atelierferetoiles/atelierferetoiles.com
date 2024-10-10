@@ -1,7 +1,7 @@
 ---
 title: PC17 - Enfant lecture
 price: 30
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC17.jpg
     alt: PC17 - Enfant lecture

@@ -1,7 +1,7 @@
 ---
 title: AC67 - Labrador
 price: 90
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC67.jpg
     alt: AC67 - Labrador

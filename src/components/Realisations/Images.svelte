@@ -1,6 +1,6 @@
 <script lang="ts">
   import cdnImageSrc from '$lib/cdnImageSrc';
-  import type { PostData } from '$lib/fetchPosts';
+  import type { PostData } from '$lib/posts';
 
   export let imgSrcList: PostData['metadata']['imgSrcList'];
   let img = imgSrcList[0];

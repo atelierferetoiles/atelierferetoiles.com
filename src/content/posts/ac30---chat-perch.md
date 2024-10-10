@@ -1,7 +1,7 @@
 ---
 title: AC30 - Chat perché
 price: 50
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC30.JPG
     alt: AC30 - Chat perché
