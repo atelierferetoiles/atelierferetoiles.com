@@ -1,4 +1,4 @@
-import { type PostData } from './posts';
+import type { PostData } from './posts';
 
 export interface GroupCategory {
   name: string;
@@ -27,7 +27,7 @@ export const fetchCategories = async () => {
 export const fetchSingleCategory = async (slug: string) => {
   const { name } = await import(`../content/categories/${slug}.json`);
   return { name, slug };
-}
+};
 
 export const fetchGroupCategories = async () => {
   const allGroupsFiles = import.meta.glob<GroupCategory>('../content/group_categories/*.json');

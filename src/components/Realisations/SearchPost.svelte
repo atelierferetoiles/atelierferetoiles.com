@@ -1,7 +1,7 @@
 <script lang="ts">
   import uFuzzy from '@leeoniya/ufuzzy';
   import Search from '../../icons/Search.svelte';
-  import { type PostData } from '$lib/posts';
+  import type { PostData } from '$lib/posts';
   import GalleryItem from '$components/Gallery/GalleryItem.svelte';
 
   export let posts: PostData[];
