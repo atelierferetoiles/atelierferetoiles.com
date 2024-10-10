@@ -13,7 +13,7 @@
 </script>
 
 {#if img}
-  <a class={cn('group rounded', className)} href={`realisations/${path}`}>
+  <a class={cn('group rounded', className)} href={`/realisations/${path}`}>
     <div class="relative overflow-hidden rounded">
       <img
         class="rounded group-hover:scale-110 transition duration-300 ease-in-out"
