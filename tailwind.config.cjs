@@ -6,12 +6,13 @@ module.exports = {
   theme: {
     fontFamily: {
       sans: ['Work Sans', 'sans-serif'],
-      display: ['blank_river', 'ui-serif'],
+      display: ['Kalam', 'ui-serif'],
     },
     extend: {
       colors: {
         egyptianblue: '#333399',
         blush: '#D99D85',
+        princeton_orange: '#ff9933',
         vistablue: '#8F95D3',
         whitesmoke: '#F2F2F2',
 

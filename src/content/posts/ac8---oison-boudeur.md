@@ -1,14 +1,13 @@
 ---
 title: AC8 - Oison boudeur
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC8.jpg
     alt: AC8 - OISON BOUDEUR
 date: '2024-05-30T10:38:44.799Z'
 draft: false
 ---
-
 
 En acier Corten
 

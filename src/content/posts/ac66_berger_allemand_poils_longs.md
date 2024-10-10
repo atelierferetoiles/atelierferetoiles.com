@@ -1,7 +1,7 @@
 ---
 title: AC66 - Berger Allemand poils longs
 price: 90
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC66.jpg
     alt: AC66 - Berger allemand

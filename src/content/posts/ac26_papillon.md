@@ -1,7 +1,7 @@
 ---
 title: AC26 - Papillon
 price: 40
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC26.jpg
     alt: AC26 - Papillon

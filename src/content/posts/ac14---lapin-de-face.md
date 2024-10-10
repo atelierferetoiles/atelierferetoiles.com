@@ -1,7 +1,7 @@
 ---
 title: AC14 - Lapin de face
 price: 25
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC14.JPG
     alt: AC14 - Lapin de face

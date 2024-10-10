@@ -1,7 +1,7 @@
 ---
 title: PC3 - Enfants luge
 price: 17
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC3.jpg
     alt: PC3 - Enfants luge

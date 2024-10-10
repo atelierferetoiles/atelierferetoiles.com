@@ -1,11 +1,10 @@
-
 **E**nvie de vous faire plaisir ou de faire plaisir ?
 
 ![>](</asset/oiseau stylisé.jpg>)
 
 **P**assez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des Expositions Ventes ci-dessous.
 
-Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, faites votre choix en consultant la page **"REALISATIONS"**. En cliquant sur la photo d'un article vous accédez à son descriptif et à son prix. Le bouton **"ENVIE DE COMMANDER OU BESOIN D'INFOS**" vous permet de me faire part de votre demande (pas de commande directement depuis le site). Sinon, passez votre commande par mail à [atelierferetoiles@gmail.com](mailto:atelierferetoiles@gmail.com) en précisant bien la référence de votre sélection et vos coordonnées. Je vous contacterai par retour afin de convenir des modalités de paiement et de livraison.
+Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, faites votre choix en consultant la page **"REALISATIONS"**. En cliquant sur la photo d'un article vous accédez à son descriptif et à son prix. Le bouton **"ENVIE DE COMMANDER OU BESOIN D'INFOS**" vous permet de me faire part de votre demande (pas de commande directement depuis le site). Sinon, passez votre commande [par mail](#contact) en précisant bien la référence de votre sélection et vos coordonnées. Je vous contacterai par retour afin de convenir des modalités de paiement et de livraison.
 
 ### SHOWROOM
 
@@ -15,13 +14,11 @@ Sur place vous pourrez choisir, acheter ou commander tous types d’articles de 
 
 Une petite visite est l’occasion de m’exposer votre projet si vous avez une demande personnalisée !
 
- ![](</asset/show room 1.png>)
-
- 
+![](</asset/show room 1.png>)
 
 ### EXPO-VENTES
 
-Je participe à des salons et des expos-ventes tout au long de l’année.  
+Je participe à des salons et des expos-ventes tout au long de l’année.
 
 ### **\*\* Calendrier 2024\*\***
 
@@ -29,9 +26,9 @@ Je participe à des salons et des expos-ventes tout au long de l’année.  
 
 ·       Fête du Jardin d’Horticulture de Soissons (02) – 27 et 28 avril 2024
 
-·       Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
+·      Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
 
-·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) –  vendredi 5 Juillet et vendredi 2 août 2024
+·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) – vendredi 5 Juillet et vendredi 2 août 2024
 
 ·       Foire à l’Ail de Locon (62) – 25 août 2024
 

@@ -1,7 +1,7 @@
 ---
 title: PC13 - Faon et renard
 price: 30
-category: src/content/categories/porte-cls-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports.json
 imgSrcList:
   - src: /asset/PC13.jpg
     alt: PC13 - Faon et renard

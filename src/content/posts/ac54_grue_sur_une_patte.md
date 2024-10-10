@@ -1,7 +1,7 @@
 ---
 title: AC54 - Grue sur une patte
 price: 110
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC54.jpg
     alt: AC54 - Grue sur une patte

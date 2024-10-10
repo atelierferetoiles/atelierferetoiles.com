@@ -1,7 +1,7 @@
 ---
 title: AC55 - Grue huppée
 price: 140
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC55.jpg
     alt: AC55 - Grue huppée

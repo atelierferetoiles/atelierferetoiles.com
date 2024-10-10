@@ -1,7 +1,7 @@
 ---
 title: AC63 - Girafe mâle
 price: 240
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC63.jpg
     alt: AC63 - Girafe mâle

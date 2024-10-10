@@ -1,7 +1,7 @@
 ---
 title: AC1 - Petit Colibri
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC1 r.JPG
     alt: AC1 - Petit Colibri
@@ -11,6 +11,6 @@ draft: false
 
 A planter dans un pot de fleur ou dans un bac à fleur sur la terrasse
 
-En acier Corten 
+En acier Corten
 
-Hauteur 81 mm x largeur 127 mm 
+Hauteur 81 mm x largeur 127 mm

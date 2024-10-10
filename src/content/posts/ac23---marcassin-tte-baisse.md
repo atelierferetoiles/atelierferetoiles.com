@@ -1,7 +1,7 @@
 ---
 title: AC23 - Marcassin tête baissée
 price: 40
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC23.jpg
     alt: AC23 - Marcassin tête baissée

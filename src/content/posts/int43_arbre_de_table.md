@@ -1,7 +1,7 @@
 ---
 title: INT43 - Arbre de table
 price: 110
-category: src/content/categories/articles-dcoratifs.json
+category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT43.jpg
     alt: INT43 - Arbre de table

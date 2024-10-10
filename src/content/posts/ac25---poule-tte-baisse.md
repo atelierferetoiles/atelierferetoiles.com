@@ -1,7 +1,7 @@
 ---
 title: AC25 - Poule tête baissée
 price: 45
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC25.JPG
     alt: AC25 - Poule tête baissée

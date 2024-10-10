@@ -1,7 +1,7 @@
 ---
 title: AC11 - Picvert
 price: 20
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC11.jpg
     alt: AC11 - Picvert

@@ -1,7 +1,7 @@
 ---
 title: AC15 - Hérisson
 price: 22
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC15.JPG
     alt: AC15 - Hérisson

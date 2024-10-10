@@ -1,7 +1,7 @@
 ---
 title: AC5 - Poussin 2
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC5.JPG
     alt: AC5 - Poussin 2

@@ -4,6 +4,7 @@ export interface Metadata {
   draft: boolean;
   imgSrcList: Array<{ src: string; alt?: string }>;
   price: number;
+  category: string;
   body: string; // rich text
 }
 
@@ -14,6 +15,11 @@ export interface PostData {
   previous?: { metadata: Metadata; path: string };
   next?: { metadata: Metadata; path: string };
 }
+
+export const fetchSinglePost = async (slug: string): Promise<PostData> => {
+  const { metadata, default: body } = await import(`../content/posts/${slug}.md`);
+  return { metadata, body, path: slug };
+};
 
 export const fetchMarkdownPosts = async (): Promise<PostData[]> => {
   const allPostFiles = import.meta.glob<{ metadata: Metadata; default: any }>(

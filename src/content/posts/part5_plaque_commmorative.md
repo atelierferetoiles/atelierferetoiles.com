@@ -1,7 +1,7 @@
 ---
 title: PART5 - Plaque Commémorative
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART5.jpg
     alt: PART5 - Plaque commémorative

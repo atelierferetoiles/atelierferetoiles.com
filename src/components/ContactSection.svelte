@@ -48,6 +48,7 @@
 <OffsetAnchor id={navLinks[1].id} />
 <section class="min-h-[60vh] pt-16 text-black">
   <div class="container m-auto max-w-7xl px-4 py-8 sm:py-12 md:px-8">
+    <div class="relative -top-16 right-3 h-0 w-0 opacity-0 sm:-top-[70px]" id="contact"></div>
     <h2 class="mb-16 text-2xl antialiased">Contact</h2>
     <div class="flex flex-col gap-8 lg:flex-row lg:justify-between">
       {#each contactItems as item}

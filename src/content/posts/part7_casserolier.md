@@ -1,7 +1,7 @@
 ---
 title: PART7 - Casserolier
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART7 B.jpg
     alt: PART7 - Casserolier

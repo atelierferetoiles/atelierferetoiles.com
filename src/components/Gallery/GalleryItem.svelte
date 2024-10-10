@@ -1,7 +1,10 @@
 <script lang="ts">
   import cdnImageSrc from '$lib/cdnImageSrc';
-  import type { PostData } from '$lib/fetchPosts';
+  import { cn } from '$lib/cn';
+  import type { PostData } from '$lib/posts';
+
   export let post: PostData;
+  export let className: string = '';
   const {
     metadata: { imgSrcList = [], title },
     path,
@@ -10,7 +13,7 @@
 </script>
 
 {#if img}
-  <a class="group rounded" href={`realisations/${path}`}>
+  <a class={cn('group rounded', className)} href={`realisations/${path}`}>
     <div class="relative overflow-hidden rounded">
       <img
         class="rounded group-hover:scale-110 transition duration-300 ease-in-out"

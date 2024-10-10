@@ -1,7 +1,7 @@
 ---
 title: PART11 - Pivoine
 price: 0
-category: src/content/categories/Autres.json
+category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART11.jpg
     alt: PART11 - Pivoine

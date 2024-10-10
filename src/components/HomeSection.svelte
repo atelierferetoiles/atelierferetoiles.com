@@ -1,6 +1,8 @@
 <script lang="ts">
   import { navLinks } from '$lib/constants';
+  import { slide } from 'svelte/transition';
   import OffsetAnchor from './OffsetAnchor.svelte';
+  import Bandeau from './Bandeau.svelte';
 
   let imageWrapperClass = '';
   let imageClass = '';
@@ -17,37 +19,33 @@
 <OffsetAnchor id={navLinks[0].id} />
 <section>
   <div
-    class="flex flex-col min-h-[80vh] overflow-x-hidden bg-cover bg-center sm:grid sm:grid-cols-2 relative"
+    class="flex flex-col min-h-[80vh] overflow-x-hidden bg-cover sm:bg-center sm:grid sm:grid-cols-2 relative"
     style={`  image-rendering: crisp-edges;background-image: url('${photoHome}');`}
   >
     {#if announcement}
-      <div
-        class="absolute flex items-center justify-center font-bold left-0 right-0 top-0 py-4 px-2 sm:px-8 bg-blush text-black text-xl text-center"
-      >
+      <Bandeau>
         {announcement}
-      </div>
+      </Bandeau>
     {/if}
     <!-- <div class="grid basix-[50%]">
       <div class="h-full lg:w-2/3" />
     </div> -->
+    <div></div>
     <div
       class="flex flex-grow flex-col items-end justify-center py-8 sm:py-4 md:px-8 xl:items-center"
     >
       <div class="px-4 py-8">
-        <p class="bg-slate-300 rounded p-8">
-          Le site est en cours de construction. Vous pouvez toujours nous <a
-            href="#contact"
-            class="font-semibold underline"
-          >
-            contacter par email ou par téléphone.
-          </a>
-        </p>
+        <h1
+          class="bg-slate-700 whitespace-nowrap bg-opacity-80 font-semibold font-display text-3xl sm:text-5xl text-white _text-princeton_orange rounded-xl p-3"
+        >
+          Le SAVOIR-"FER"
+        </h1>
       </div>
     </div>
   </div>
   {#if subTitle}
     <div
-      class="flex flex-col overflow-x-hidden bg-cover bg-slate-300 bg-center sm:grid sm:grid-cols-2"
+      class="flex flex-col font-display overflow-x-hidden bg-cover bg-slate-300 bg-center sm:grid sm:grid-cols-2"
     >
       <div class={imageWrapperClass}>
         <div class={imageClass} />

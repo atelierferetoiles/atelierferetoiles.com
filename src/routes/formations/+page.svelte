@@ -4,6 +4,6 @@
   const Body = data.body;
 </script>
 
-<div class="container mx-auto max-w-3xl mt-4 px-2">
+<div class="container mx-auto max-w-3xl mt-16 px-2">
   <Body />
 </div>

@@ -1,7 +1,7 @@
 ---
 title: AC2 - Petit Escargot
 price: 10
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC2 r.JPG
     alt: 'AC2 - Petit Escargot '

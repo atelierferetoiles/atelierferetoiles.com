@@ -1,3 +1,5 @@
 {
-  "name": "Tableaux"
+  "name": "Tableaux",
+  "group_category": "src/content/group_categories/Dcoration-Intrieure.json",
+  "order": 21
 }

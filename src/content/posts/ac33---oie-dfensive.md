@@ -1,7 +1,7 @@
 ---
 title: AC33 - Oie défensive
 price: 60
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC33.JPG
     alt: AC33 - Oie défensive

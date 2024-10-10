@@ -5,16 +5,28 @@ export const navLinks = [
     href: '/#top',
   },
   {
+    id: 'formations',
+    label: 'Formations',
+    href: '/formations',
+  },
+  {
+    id: 'realisations',
+    label: 'Realisations',
+    href: '/realisations',
+  },
+  { id: 'expo', label: 'Expo-vente', href: '/expo-vente' },
+  {
     id: 'contact',
     label: 'Contact',
     href: '#contact',
   },
 ];
 
-export const companyName = 'Atelier Fer e\'Toiles'
+export const companyName = "Atelier Fer e'Toiles";
 
 export const caesarKey = -6;
 export const email = 'gzkrokxlkxkzuorkyFmsgor4ius';
-export const tel = '6=>=?9?866';
+// export const tel = '6=>=?9?866';
+export const tel = '6=&>=&?9&?8&66';
 
 export const urlRoot = 'https://atelierferetoiles.com';

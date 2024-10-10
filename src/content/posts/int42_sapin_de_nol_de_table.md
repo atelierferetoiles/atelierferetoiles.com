@@ -1,7 +1,7 @@
 ---
 title: INT42 - Sapin de Noël de table
 price: 80
-category: src/content/categories/articles-dcoratifs.json
+category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT42.jpg
     alt: INT42 - Sapin de Noël de table

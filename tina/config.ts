@@ -211,7 +211,65 @@ export default defineConfig({
         label: 'Catégories de produits',
         path: 'src/content/categories',
         format: 'json',
-        fields: [{ name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true }],
+        fields: [
+          { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          {
+            label: 'Groupe de catégorie',
+            type: 'reference',
+            name: 'group_category',
+            collections: ['group_categories'],
+          },
+          {
+            label: "Numéro d'ordre",
+            type: 'number',
+            description: 'Les catégories seront rangées du plus petit numéro au plus grand.',
+            name: 'order',
+            required: true,
+          },
+        ],
+        ui: {
+          filename: {
+            slugify: (values) => {
+              return values.title
+                .toString()
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s-]/g, '') // remove non-word [a-z0-9_], non-whitespace, non-hyphen characters
+                .replace(/[\s_-]+/g, '_') // swap any length of whitespace, underscore, hyphen characters with a single _
+                .replace(/^-+|-+$/g, ''); // remove leading, trailing -
+            },
+          },
+        },
+      },
+      {
+        name: 'group_categories',
+        label: 'Groupe de catégories de produits',
+        path: 'src/content/group_categories',
+        format: 'json',
+        fields: [
+          { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          {
+            label: "Numéro d'ordre",
+            description: 'Les catégories seront rangées du plus petit numéro au plus grand.',
+            type: 'number',
+            name: 'order',
+            required: true,
+          },
+        ],
+        ui: {
+          filename: {
+            readonly: false,
+            slugify: (values) => {
+              return values.title
+                .toString()
+                .toLowerCase()
+                .trim()
+                .replace(/[^\w\s-]/g, '') // remove non-word [a-z0-9_], non-whitespace, non-hyphen characters
+                .replace(/[\s_-]+/g, '_') // swap any length of whitespace, underscore, hyphen characters with a single _
+                .replace(/^-+|-+$/g, ''); // remove leading, trailing -
+            },
+          },
+        },
       },
       {
         name: 'Footer',

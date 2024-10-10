@@ -1,7 +1,7 @@
 ---
 title: PART15 - Au Diable au Thym
 price: 0
-category: src/content/categories/Enseignes.json
+category: src/content/categories/enseignes.json
 imgSrcList:
   - src: /asset/PART15.jpg
     alt: PART15 - Au Diable au Thym

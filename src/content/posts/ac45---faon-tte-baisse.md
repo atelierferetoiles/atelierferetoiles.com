@@ -1,7 +1,7 @@
 ---
 title: AC45 - Faon tête baissée
 price: 90
-category: src/content/categories/Animaux.json
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC45.jpg
     alt: AC45 - Faon tête baissée

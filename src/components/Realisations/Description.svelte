@@ -1,5 +1,5 @@
 <script lang="ts">
-  import type { PostData } from '$lib/fetchPosts';
+  import type { PostData } from '$lib/posts';
   import CommandeForm from './CommandeForm.svelte';
   export let post: PostData;
   export let Body: any;
@@ -14,10 +14,9 @@
     {#if price}
       <h2 class="text-md font-medium">{price} €</h2>
     {/if}
+    <div class="mt-4 text-justify"><Body /></div>
     <div class="mt-4">
       <CommandeForm productId={title} />
     </div>
   </div>
-
-  <div class="text-justify"><Body /></div>
 </div>
