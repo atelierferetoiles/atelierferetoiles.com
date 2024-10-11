@@ -1,6 +1,6 @@
 ---
 title: AC10 - Oiseau huppé
-price: 20
+price: 15
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC10.jpg
