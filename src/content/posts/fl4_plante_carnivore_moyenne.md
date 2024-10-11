@@ -1,5 +1,5 @@
 ---
-title: FL4 - Plante carnivore Moyenne
+title: FL4 - Plante carnivore Moqueuse
 price: 650
 category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
