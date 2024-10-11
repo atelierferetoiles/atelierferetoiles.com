@@ -9,4 +9,6 @@ date: 2024-06-26T20:44:38.924Z
 draft: false
 ---
 
-En acier corten
+A piquer dans un arbre ou un poteau de clôture par exemple. En acier Corten, épaisseur 3 mm
+
+Dimensions : hauteur 125 mm x largeur 345 mm
