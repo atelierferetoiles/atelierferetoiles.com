@@ -1,5 +1,5 @@
 ---
-title: AC43 - RAPACE
+title: AC43 - Rapace
 price: 80
 category: src/content/categories/animaux.json
 imgSrcList:
@@ -8,6 +8,8 @@ imgSrcList:
 date: 2024-10-06T15:51:27.252Z
 draft: false
 ---
+
+A planter dans le jardin. 
 
 En acier Corten, épaisseur 3 mm
 
