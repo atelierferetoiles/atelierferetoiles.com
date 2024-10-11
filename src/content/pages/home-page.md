@@ -1,6 +1,6 @@
 ---
-photoHome: /asset/photo accueil.jpg
-subTitle: Le Savoir-"Fer" de votre artisan des Hauts de France !
+photoHome: /asset/photo accueil new 1.jpg
+subTitle: 'Jean-Michel Defraiteur, votre Artisan des Hauts de France '
 announcement: >-
   Prochaine expo-vente : Marché du Terroir et de l'Artisanat à Annezin les 2 et
   3 novembre 2024
@@ -16,7 +16,7 @@ announcement: >-
 
 **P**our la décoration intérieure, j’utilise l’acier, l’inox, le cuivre et parfois l’aluminium pour réaliser tout type d’objets, en métal naturel vernis ou peint, et des tableaux de différentes tailles mettant en scène des animaux et/ou des enfants à titre d’exemple.
 
-![<](/asset/INT49.jpg)
+![\<](/asset/INT49.jpg)
 
 **P**our la décoration extérieure, je travaille principalement l’acier Corten, un acier auto-protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ». Cerise sur le gâteau, cela **ne nécessite aucun entretien** ! Nul besoin de peindre ou de vernir ces réalisations tout spécialement adaptées pour l'extérieur ni même de les rentrer pour l'hiver. Bref, pas besoin de les nourrir !
 
