@@ -9,7 +9,7 @@ date: 2024-05-30T12:32:38.799Z
 draft: false
 ---
 
-A visser sur une branche d'arbre ou sur un poteau de clôture par exemple.
+A visser sur une branche d'arbre ou sur un poteau de clôture par exemple. Disponible également en version à planter dans le sol.
 
 En acier Corten, épaisseur 3 mm
 
