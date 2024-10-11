@@ -5,8 +5,12 @@ category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
   - src: /asset/FL5.jpg
     alt: FL5 - Roseau simple
-date: '2024-10-03T14:23:13.601Z'
+date: 2024-10-03T14:23:13.601Z
 draft: false
 ---
 
-En acier Corten
+A planter dans le jardin. 
+
+En acier Corten, épaisseur 3 mm
+
+Hauteur xxx mm (hors piquet) x Largeur xxx mm
