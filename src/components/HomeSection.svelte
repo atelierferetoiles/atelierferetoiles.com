@@ -31,7 +31,7 @@
       <div class="h-full lg:w-2/3" />
     </div> -->
     <div></div>
-    <div
+    <!-- <div
       class="flex flex-grow flex-col items-end justify-center py-8 sm:py-4 md:px-8 xl:items-center"
     >
       <div class="px-4 py-8">
@@ -41,7 +41,7 @@
           Le SAVOIR-"FER"
         </h1>
       </div>
-    </div>
+    </div> -->
   </div>
   {#if subTitle}
     <div

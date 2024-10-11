@@ -3,12 +3,14 @@ import type { PostData } from './posts';
 export interface GroupCategory {
   name: string;
   order: number;
+  description?: string;
 }
 
 export interface Category {
   name: string;
   group_category: string;
   order: number;
+  description?: string;
 }
 
 export const fetchCategories = async () => {
@@ -25,8 +27,8 @@ export const fetchCategories = async () => {
 };
 
 export const fetchSingleCategory = async (slug: string) => {
-  const { name } = await import(`../content/categories/${slug}.json`);
-  return { name, slug };
+  const { name, description } = await import(`../content/categories/${slug}.json`);
+  return { name, slug, description };
 };
 
 export const fetchGroupCategories = async () => {
@@ -58,7 +60,10 @@ export const getPostsForCategory = (
   let count = 0;
 
   for (const post of posts) {
-    if (getFileName(post.metadata.category) === categoryFileName) {
+    if (
+      getFileName(post.metadata.category) === categoryFileName &&
+      post.metadata.imgSrcList?.[0]?.src
+    ) {
       result.push(post);
       count++;
     }

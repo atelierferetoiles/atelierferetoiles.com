@@ -35,7 +35,7 @@ export async function load() {
     posts,
     fullGroups,
     searchable,
-    title: 'Nos réalisations',
+    title: 'Mes réalisations',
     description: "Réalisations de l'atelier Fer e'Toiles",
   };
 }

@@ -4,6 +4,8 @@
   import collapse from '$lib/collapse';
   import { navLinks } from '$lib/constants';
   import { onMount } from 'svelte';
+  import { facebook } from '$content/pages/footer.json';
+  import FacebookLogo from '../icons/FacebookLogo.svelte';
 
   // mobile nav open
   let open = false;
@@ -59,6 +61,17 @@
       {#each navLinks as link}
         <a class={linkClass} href={link.href} on:click={closeMenu}>{link.label}</a>
       {/each}
+      {#if facebook}
+        <a
+          class={linkClass}
+          target="_blank"
+          rel="noreferrer noopener"
+          href={facebook}
+          on:click={closeMenu}
+        >
+          <FacebookLogo size={16} />
+        </a>
+      {/if}
     </div>
 
     <div
@@ -68,6 +81,17 @@
       {#each navLinks as link}
         <a class={linkClass} href={link.href} on:click={closeMenu}>{link.label}</a>
       {/each}
+      {#if facebook}
+        <a
+          class={linkClass}
+          target="_blank"
+          rel="noreferrer noopener"
+          href={facebook}
+          on:click={closeMenu}
+        >
+          <FacebookLogo size={16} />
+        </a>
+      {/if}
     </div>
   </nav>
 </div>

@@ -3,7 +3,7 @@ import { fetchMarkdownPosts } from '$lib/posts.js';
 import uFuzzy from '@leeoniya/ufuzzy';
 
 export async function load({ params: { slug } }) {
-  const { name } = await fetchSingleCategory(slug);
+  const { name, description } = await fetchSingleCategory(slug);
   const allPosts = await fetchMarkdownPosts();
 
   const posts = getPostsForCategory(`${slug}.json`, allPosts);
@@ -11,5 +11,5 @@ export async function load({ params: { slug } }) {
     posts.map(({ metadata: { title, body } }) => title + ' ' + (body || ''))
   );
 
-  return { name, posts, slug, searchable };
+  return { name, description, posts, slug, searchable };
 }
