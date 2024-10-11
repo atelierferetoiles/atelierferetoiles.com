@@ -13,3 +13,5 @@ draft: false
 ont été nécessaires pour sa réalisation, entièrement manuelle.
 
 Cet arbre est démontable en 6 gros éléments (le tronc et les 5 grosses branches) pour faciliter son installation
+
+Hauteur xxx mm (hors tige) x Largeur xxx mm
