@@ -9,6 +9,8 @@ date: 2024-05-15T22:00:00.000Z
 draft: false
 ---
 
-En acier Corten, à planter dans un pot de fleur ou un bac à fleurs sur la terrasse
+A planter dans un pot ou un bac à fleurs sur la terrasse.
+
+En acier Corten
 
 Hauteur 61 mm x largeur 93 mm
