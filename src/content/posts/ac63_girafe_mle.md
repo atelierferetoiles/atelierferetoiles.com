@@ -9,4 +9,8 @@ date: 2024-10-03T14:36:44.820Z
 draft: false
 ---
 
-en acier Corten
+A planter dans le jardin. 
+
+En acier Corten, épaisseur 3 mm
+
+Hauteur xxx mm (hors tige) x Largeur xxx mm
