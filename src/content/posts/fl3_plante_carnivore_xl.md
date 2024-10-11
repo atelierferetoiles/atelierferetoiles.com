@@ -1,5 +1,5 @@
 ---
-title: FL3 - Plante carnivore XL
+title: 'FL3 - Grande Plante carnivore '
 price: 2300
 category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
