@@ -13,4 +13,4 @@ En acier corten pour les feuilles, zinc et cuivre pour la fleur.
 
 Entièrement fait main, 40 h de travail ont été nécessaires pour sa réalisation
 
-Dimensions :
+Hauteur xxx mm (hors tige) x Largeur xxx mm
