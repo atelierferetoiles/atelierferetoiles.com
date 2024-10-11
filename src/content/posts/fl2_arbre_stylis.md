@@ -9,6 +9,6 @@ date: 2024-10-06T16:39:38.687Z
 draft: false
 ---
 
-En acier Corten épaisseur 6 mm,
+En acier Corten épaisseur 6 mm
 
-Dimensions :
+Hauteur xxx mm (hors tige) x Largeur xxx mm
