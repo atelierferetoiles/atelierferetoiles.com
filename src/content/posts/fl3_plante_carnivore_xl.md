@@ -15,4 +15,4 @@ Forgée à la main, cette plante carnivore a nécessité environ 200 h de travai
 
 Feuilles et fleurs sont démontables du socle pour faciliter le transport et l'installation.
 
-Dimensions :
+Hauteur xxx mm (hors tige) x Largeur xxx mm
