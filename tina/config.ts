@@ -213,6 +213,8 @@ export default defineConfig({
         format: 'json',
         fields: [
           { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          { name: 'description', type: 'string', label: 'Description', required: false },
+
           {
             label: 'Groupe de catégorie',
             type: 'reference',
@@ -248,6 +250,7 @@ export default defineConfig({
         format: 'json',
         fields: [
           { name: 'name', type: 'string', label: 'Nom', isTitle: true, required: true },
+          { name: 'description', type: 'string', label: 'Description', required: false },
           {
             label: "Numéro d'ordre",
             description: 'Les catégories seront rangées du plus petit numéro au plus grand.',
@@ -285,6 +288,7 @@ export default defineConfig({
         },
         format: 'json',
         fields: [
+          { name: 'facebook', label: 'Page facebook', type: 'string' },
           { name: 'address', label: 'Adresse', type: 'string', required: true },
           {
             name: 'addressLink',

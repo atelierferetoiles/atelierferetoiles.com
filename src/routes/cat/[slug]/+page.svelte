@@ -6,7 +6,7 @@
 
   export let data;
 
-  const { name, posts, searchable } = data;
+  const { name, description, posts, searchable } = data;
 </script>
 
 <div>
@@ -14,7 +14,7 @@
     <H1 className="text-center">{name}</H1>
     <SearchPost {posts} {searchable} />
     <div class="mt-6 pt-2 mb-16">
-      <GalleryContainer>
+      <GalleryContainer {description}>
         {#each posts as post (post.path)}
           <GalleryItem {post} />
         {/each}

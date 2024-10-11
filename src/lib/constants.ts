@@ -5,14 +5,14 @@ export const navLinks = [
     href: '/#top',
   },
   {
-    id: 'formations',
-    label: 'Formations',
-    href: '/formations',
-  },
-  {
     id: 'realisations',
     label: 'Realisations',
     href: '/realisations',
+  },
+  {
+    id: 'formations',
+    label: 'Formations',
+    href: '/formations',
   },
   { id: 'expo', label: 'Expo-vente', href: '/expo-vente' },
   {

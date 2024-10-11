@@ -11,27 +11,29 @@
 
   export let data;
   const { fullGroups, posts, searchable } = data;
+
+  console.log(fullGroups);
 </script>
 
 <div class="container mx-auto max-w-5xl my-8">
-  <H1 className="text-center">Nos réalisations</H1>
+  <H1 className="text-center">Mes réalisations</H1>
   <SearchPost {posts} {searchable} />
   {#each fullGroups as group (group.name)}
     <div class="mt-6 pt-2 mb-16">
       <H2 className="ml-4 mb-0 font-display md:ml-16">{group.name}</H2>
-      {#each group.categories as category}
-        <GalleryContainer>
+      {#each group.categories as category, i}
+        <GalleryContainer description={i === 0 ? group.description : ''}>
           <div class="flex flex-col justify-center pl-8">
             <H3 className="mb-2">{category.name}</H3>
             <A
-              className="arrow hover:after:translate-x-2 h-6 inline-block leading-6 after:duration-100 after:transition-transform relative after:ease-in-out"
+              className="arrow hover:after:translate-x-2 h-6 font-semibold text-lg inline-block leading-6 after:duration-100 after:transition-transform relative after:ease-in-out"
               href={`/cat/${getFileName(category.path).replace('.json', '')}`}
               >Voir tous les produits</A
             >
           </div>
 
-          {#each category.posts as post, index}
-            <GalleryItem {post} className={cn({ 'hidden sm:block': index >= 3 })} />
+          {#each category.posts as post, index (post.metadata.title)}
+            <GalleryItem {post} className={cn({ [`hidden sm:block ${index}`]: index >= 3 })} />
           {/each}
         </GalleryContainer>
       {/each}

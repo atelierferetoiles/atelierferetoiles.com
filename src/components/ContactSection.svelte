@@ -5,7 +5,7 @@
   import { onMount } from 'svelte';
   import OffsetAnchor from './OffsetAnchor.svelte';
 
-  import { address, addressLink } from '$content/pages/footer.json';
+  import { address, addressLink, facebook } from '$content/pages/footer.json';
 
   const getContactItems = (emailVal: string, bureauVal: string, hidden: boolean) => [
     {
@@ -25,6 +25,11 @@
       value: address,
       label: 'Adresse',
       hidden: false,
+    },
+    {
+      href: facebook,
+      label: 'Facebook',
+      value: "Atelier Fer e'Toiles",
     },
   ];
 
