@@ -1,6 +1,6 @@
 ---
 title: AC36 - Cochon de profil
-price: 90
+price: 80
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC36.jpg
@@ -8,3 +8,9 @@ imgSrcList:
 date: 2024-05-30T12:29:00.275Z
 draft: false
 ---
+
+A planter dans le jardin. 
+
+En acier Corten, épaisseur 3 mm
+
+Hauteur xxx mm (hors tige) x Largeur xxx mm
