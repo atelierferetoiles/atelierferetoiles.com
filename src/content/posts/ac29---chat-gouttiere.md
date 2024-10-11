@@ -5,10 +5,12 @@ category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC29.JPG
     alt: AC29 - Chat de gouttière
-date: '2024-05-30T12:13:44.699Z'
+date: 2024-05-30T12:13:44.699Z
 draft: false
 ---
 
-En acier Corten
+A planter dans le jardin. 
+
+En acier Corten, épaisseur 3 mm
 
 Hauteur 357 mm (hors tige) x Largeur 280 mm
