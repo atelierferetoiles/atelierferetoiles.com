@@ -9,7 +9,7 @@ date: 2024-05-30T10:48:26.212Z
 draft: false
 ---
 
-A planter dans le jardin. 
+A planter dans le jardin ou dans un bac à fleurs par exemple. 
 
 En acier Corten, épaisseur 3 mm
 
