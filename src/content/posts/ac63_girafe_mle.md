@@ -9,7 +9,7 @@ date: 2024-10-03T14:36:44.820Z
 draft: false
 ---
 
-A planter dans le jardin dans un massif au milieu des arbustes ou sur le dessus d'un mur ou sur la branche d'un arbre par exemple
+A planter dans le jardin dans un massif au milieu des arbustes ou à fixer sur le dessus d'un mur ou sur la branche d'un arbre par exemple
 
 En acier Corten, épaisseur 4 mm
 
