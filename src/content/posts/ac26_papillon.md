@@ -9,6 +9,8 @@ date: 2024-10-03T13:50:20.210Z
 draft: false
 ---
 
-En acier Corten
+A planter dans le jardin ou dans un bac à fleurs par exemple.
+
+En acier Corten, épaisseur 3 mm
 
 Hauteur 1190mm x 290mm (hors tige)
