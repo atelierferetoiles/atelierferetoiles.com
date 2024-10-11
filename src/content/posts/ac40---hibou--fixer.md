@@ -9,4 +9,8 @@ date: 2024-05-30T12:32:38.799Z
 draft: false
 ---
 
-En acier Corten. Hauteur 480mm x 450mm
+A visser sur une branche d'arbre ou sur un poteau de clôture par exemple.
+
+En acier Corten, épaisseur 3 mm
+
+Hauteur 480mm x largeur 450mm
