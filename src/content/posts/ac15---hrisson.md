@@ -9,6 +9,8 @@ date: 2024-05-30T10:48:26.212Z
 draft: false
 ---
 
-En acier Corten
+A planter dans le jardin. 
+
+En acier Corten, épaisseur 3 mm
 
 Hauteur 135 mm (hors tige) x Largeur 215 mm
