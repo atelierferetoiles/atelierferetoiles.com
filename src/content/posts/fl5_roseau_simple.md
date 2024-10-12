@@ -9,7 +9,7 @@ date: 2024-10-03T14:23:13.601Z
 draft: false
 ---
 
-A planter dans le jardin. 
+A planter dans le jardin ou sur le bord d'un bassin.
 
 En acier Corten, épaisseur 3 mm
 
