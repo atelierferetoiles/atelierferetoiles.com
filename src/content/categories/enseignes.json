@@ -1,5 +1,6 @@
 {
   "name": "Enseignes",
+  "description": "Quelques exemples d'enseignes réalisées à la demande de clients pour leur activité professionnelle.",
   "group_category": "src/content/group_categories/Ralisations-Personnalises.json",
   "order": 30
 }
