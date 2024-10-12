@@ -1,6 +1,6 @@
 ---
 title: PART4 - Blason Lion des Flandres
-price: 0
+price: 220
 category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART4.jpg
