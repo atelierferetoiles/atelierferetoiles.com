@@ -1,6 +1,6 @@
 ---
 title: AC64 - Girafon
-price: 90
+price: 80
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC64.jpg
