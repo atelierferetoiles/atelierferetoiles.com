@@ -1,6 +1,6 @@
 ---
 title: PART9 - 3 VOILIERS
-price: 0
+price: 120
 category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART9.jpg
@@ -10,5 +10,3 @@ draft: false
 ---
 
 3 Voiliers sur l'eau, entièrement fait main, composé d'acier, d'inox et de cuivre. Décoration d'intérieur
-
-Prix sur demande
