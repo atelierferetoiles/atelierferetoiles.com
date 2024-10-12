@@ -1,7 +1,7 @@
 ---
 title: PC6 - Caravelle
 price: 25
-category: src/content/categories/porte-cles-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC6.jpg
     alt: PC6 - Caravelle
