@@ -2,11 +2,14 @@
 title: FL8 - Etiquettes de potager
 price: 15
 category: src/content/categories/plantes-arbres-fleurs.json
+imgSrcList:
+  - src: /asset/FL8.jpg
+    alt: FL8 - Etiquettes de potager
 date: 2024-10-12T15:44:31.732Z
 draft: false
 ---
 
-A planter dans le potager. Prix unitaire 15 €, 5 achetés le 6ème est offert  
+A planter dans le potager. Prix unitaire 15 €, 5 achetés le 6ème est offert
 
 En acier Corten, épaisseur 1.5 mm
 
