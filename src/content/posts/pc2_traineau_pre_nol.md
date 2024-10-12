@@ -1,7 +1,7 @@
 ---
 title: PC2 - Traineau Père Noël
-price: 17
-category: src/content/categories/porte-cles-et-autres-supports.json
+price: 20
+category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC2.jpg
     alt: PC2 - Traineau Père Noël
