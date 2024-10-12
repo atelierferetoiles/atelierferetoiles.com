@@ -1,7 +1,7 @@
 ---
 title: PC5 - Voilier
 price: 25
-category: src/content/categories/porte-cles-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC5.jpg
     alt: PC5 - Voilier
