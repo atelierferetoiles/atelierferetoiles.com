@@ -1,7 +1,7 @@
 ---
 title: PC15 - Colibris et coccinelles
 price: 30
-category: src/content/categories/porte-cles-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC15.jpg
     alt: PC15 - Colibris et coccinelles
