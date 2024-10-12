@@ -10,3 +10,5 @@ draft: false
 ---
 
 Plaque commémorative réalisée à l'occasion des 60 ANS d'amitié entre la ville de Locon (France - 62) et celle de Oesbern (Allemagne)
+
+Prix sur demande
