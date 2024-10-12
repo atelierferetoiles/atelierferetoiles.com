@@ -5,7 +5,7 @@ category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT40.jpg
     alt: INT40 - Porte Documents
-date: 2024-10-10T16:04:00.000Z
+date: 2024-10-06T16:04:00.000Z
 draft: false
 ---
 
