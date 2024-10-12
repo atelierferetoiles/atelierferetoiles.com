@@ -5,7 +5,7 @@ category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT45.jpg
     alt: INT45 - Sous verre en Inox
-date: 2024-10-03T15:30:43.150Z
+date: 2024-10-11T15:30:00.000Z
 draft: false
 ---
 
