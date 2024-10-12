@@ -1,5 +1,6 @@
 {
   "name": "Plantes Arbres Fleurs",
+  "description": "Les arbres peuvent être réalisés en fer à béton ou en acier Corten à vos dimensions !",
   "group_category": "src/content/group_categories/Dcoration-Extrieure.json",
-  "order": 17
+  "order": 15
 }
