@@ -5,8 +5,8 @@ category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
   - src: /asset/FL7.jpg
     alt: FL7 - Roseau 3D
-date: '2024-10-03T14:34:03.617Z'
+date: 2024-10-03T14:34:03.617Z
 draft: false
 ---
 
-En acier Corten, forgé main et non en découpe laser
+En acier Corten, forgé main 
