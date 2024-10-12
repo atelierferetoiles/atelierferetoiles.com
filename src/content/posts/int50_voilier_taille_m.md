@@ -5,7 +5,7 @@ category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT50.jpg
     alt: INT50 - Voilier taille M
-date: 2024-10-03T15:47:21.348Z
+date: 2024-10-10T15:47:00.000Z
 draft: false
 ---
 
