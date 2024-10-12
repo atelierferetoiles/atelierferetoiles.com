@@ -10,3 +10,5 @@ draft: false
 ---
 
 Etagères décoratives en métal, faites sur mesure
+
+Prix sur demande
