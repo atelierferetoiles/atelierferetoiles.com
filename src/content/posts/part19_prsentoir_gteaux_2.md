@@ -1,6 +1,6 @@
 ---
-title: PART19 - Présentoir à gâteaux 2
-price: 0
+title: PART19 - Présentoir à gâteaux - modèle 2
+price: 900
 category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART19.jpg
