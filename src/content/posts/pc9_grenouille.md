@@ -1,6 +1,6 @@
 ---
 title: PC9 - Grenouille
-price: 25
+price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC9.jpg
