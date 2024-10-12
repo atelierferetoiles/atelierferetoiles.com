@@ -1,7 +1,7 @@
 ---
 title: PC10 - Montagne cerf
 price: 30
-category: src/content/categories/porte-cles-et-autres-supports.json
+category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
   - src: /asset/PC10.jpg
     alt: PC10 - Montagne cerf
