@@ -10,3 +10,5 @@ draft: false
 ---
 
 Etagère décorative en métal, pour chaussures, du sur-mesure !
+
+Prix sur demande
