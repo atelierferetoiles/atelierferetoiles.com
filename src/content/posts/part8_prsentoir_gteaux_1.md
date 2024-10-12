@@ -1,6 +1,6 @@
 ---
 title: PART8 - Présentoir à gâteaux 1
-price: 0
+price: 1200
 category: src/content/categories/autres.json
 imgSrcList:
   - src: /asset/PART8.jpg
