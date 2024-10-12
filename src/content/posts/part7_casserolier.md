@@ -10,3 +10,5 @@ draft: false
 ---
 
 Casserolier en métal réalisé pour la cuisine d'un client
+
+Prix sur demande
