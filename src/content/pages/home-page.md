@@ -1,6 +1,6 @@
 ---
-photoHome: /asset/photo accueil new 2.jpg
-subTitle: 'Jean-Michel Defraiteur, votre Artisan des Hauts de France '
+photoHome: /asset/photo accueil 1.jpg
+subTitle: 'Le Savoir-''''Fer'''' de votre Artisan des Hauts de France '
 announcement: >-
   Prochaine expo-vente : Marché du Terroir et de l'Artisanat à Annezin les 2 et
   3 novembre 2024
