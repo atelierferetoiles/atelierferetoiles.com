@@ -9,12 +9,12 @@ date: 2024-06-18T15:21:57.205Z
 draft: false
 ---
 
-En acier Corten
+En acier Corten, 
 
 Existe en 2 tailles :
 
-Taille M : Hauteur 190 mm x largeur 300 mm, épaisseur 1.5 mm - prix 50 €
+Taille M : Hauteur 255mm x largeur 405 mm, épaisseur 1.5 mm - prix 50 €
 
-Taille L : Hauteur 345 mm x largeur 545 mm, épaisseur 3 mm - prix 80 €
+Taille L : Hauteur 465 mm x largeur 735 mm, épaisseur 3 mm - prix 130 €
 
  2 finitions au choix selon la taille : métal naturel vernis (taille M et L) ou peint coloris noir (taille M)
