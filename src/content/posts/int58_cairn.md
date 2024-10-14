@@ -1,6 +1,6 @@
 ---
-title: INT58 - Cairn
-price: 85
+title: 'INT58 - Whesti '
+price: 90
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT58.jpg
