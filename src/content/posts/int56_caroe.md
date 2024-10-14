@@ -1,12 +1,12 @@
 ---
-title: INT56 - Caroe
+title: INT56 - Carpe
 price: 70
 category: src/content/categories/tableaux.json
 date: 2024-10-14T18:03:42.463Z
 draft: false
 ---
 
-A accrocher sur un mur 
+A accrocher sur un mur
 
 En acier Corten, épaisseur 3 mm
 
