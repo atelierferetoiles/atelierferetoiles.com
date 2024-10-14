@@ -1,6 +1,6 @@
 ---
 title: INT1 - Petit Colibri
-price: 15
+price: 10
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT1B.jpg
