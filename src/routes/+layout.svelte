@@ -5,9 +5,9 @@
   import Footer from '$components/Footer.svelte';
   import { page } from '$app/stores'; // Import the page store to access route-specific data.
   import getMetaTags from '$lib/metaTags';
+  import { fade } from 'svelte/transition';
 
   export let data; // Exported so that child components/pages can provide data.
-  data;
 
   $: metaTags = getMetaTags({
     pathName: $page.url.pathname,
@@ -48,7 +48,11 @@
     <Nav />
   </header>
   <main class="relative mt-16 pt-2 bg-whitesmoke">
-    <slot />
+    {#key data.url}
+      <div in:fade={{ duration: 150, delay: 150 }} out:fade={{ duration: 150 }}>
+        <slot />
+      </div>
+    {/key}
   </main>
   <footer class="mt-auto bg-vistablue">
     <Footer />
