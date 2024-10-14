@@ -1,6 +1,6 @@
 ---
 title: INT17 - Ecureuil sur branche
-price: 50
+price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT17.jpg
