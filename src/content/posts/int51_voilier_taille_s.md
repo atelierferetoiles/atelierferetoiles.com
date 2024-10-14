@@ -9,4 +9,6 @@ date: 2024-10-03T15:51:00.000Z
 draft: false
 ---
 
-Entièrement fait main
+Entièrement fait main. Se compose de différents métaux dont acier, cuivre
+
+ 
