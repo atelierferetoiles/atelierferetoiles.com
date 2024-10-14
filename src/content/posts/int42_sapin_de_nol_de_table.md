@@ -9,7 +9,7 @@ date: 2024-10-03T15:23:05.949Z
 draft: false
 ---
 
-En acier Corten
+En acier Corten 
 
 Existe en 2 tailles : 4 niveaux de décor (110 €) et 3 niveaux de décor (80€).
 
