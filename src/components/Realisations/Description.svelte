@@ -10,7 +10,7 @@
 
 <div class="px-4 sm:px-0">
   <div class="mb-4">
-    <h1 class="text-xl font-semibold">{title}</h1>
+    <h1 class="text-xl text-egyptianblue font-semibold">{title}</h1>
     {#if price}
       <h2 class="text-lg font-semibold">{price} €</h2>
     {/if}

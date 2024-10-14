@@ -11,13 +11,13 @@
     open = !open;
   };
 
-  $: open_class = open ? '' : 'bg-princeton_orange';
+  $: open_class = open ? 'bg-blush border-blush' : 'bg-princeton_orange border-princeton_orange';
 </script>
 
 <div>
   <!-- <hr class="h-px my-8 bg-gray-200 border-0 dark:bg-gray-700" /> -->
   <button
-    class="{open_class} py-2 px-2 rounded-lg text-left border-2 border-princeton_orange hover:bg-blush hover:border-blush transition-colors"
+    class="{open_class} py-2 px-2 rounded-lg text-left border-2 hover:bg-blush hover:border-blush transition-colors"
     on:click={toggle}
   >
     <span class="flex justify-between">
