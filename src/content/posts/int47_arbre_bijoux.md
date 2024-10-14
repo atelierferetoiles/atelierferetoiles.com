@@ -9,3 +9,5 @@ draft: false
 En acier Corten
 
 2 coloris disponibles : métal naturel vernis ou noir métal. Autre coloris disponible sur demande
+
+hauteur 240 mm x largeur 240 mm
