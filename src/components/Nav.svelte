@@ -69,7 +69,7 @@
           href={facebook}
           on:click={closeMenu}
         >
-          <FacebookLogo size={16} />
+          <FacebookLogo size={20} />
         </a>
       {/if}
     </div>
@@ -89,7 +89,7 @@
           href={facebook}
           on:click={closeMenu}
         >
-          <FacebookLogo size={16} />
+          <FacebookLogo size={20} />
         </a>
       {/if}
     </div>

@@ -45,7 +45,7 @@
   </div>
   {#if subTitle}
     <div
-      class="flex flex-col font-display overflow-x-hidden bg-cover bg-slate-300 bg-center sm:grid sm:grid-cols-2"
+      class="flex flex-col font-display overflow-x-hidden bg-cover bg-slate-300 bg-center sm:grid"
     >
       <div class={imageWrapperClass}>
         <div class={imageClass} />
