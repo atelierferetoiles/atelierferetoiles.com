@@ -52,6 +52,6 @@
 		"svelte-collapse": "^0.1.1",
 		"svelte-hamburgers": "^4.0.1",
 		"tailwind-merge": "^1.13.2",
-		"tinacms": "^1.5.6"
+		"tinacms": "^2.2.9"
 	}
 }

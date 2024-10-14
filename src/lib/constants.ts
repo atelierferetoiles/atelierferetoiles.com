@@ -2,7 +2,7 @@ export const navLinks = [
   {
     id: 'top',
     label: 'Accueil',
-    href: '/#top',
+    href: '/',
   },
   {
     id: 'realisations',

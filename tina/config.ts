@@ -7,11 +7,11 @@ export default defineConfig({
   branch,
   clientId: process.env.TINA_CLIENT_ID, // Get this from tina.io
   token: process.env.TINA_CONTENT_TOKEN, // Get this from tina.io
-  // search: {
-  //   tina: {
-  //     indexerToken: process.env.TINA_SEARCH_TOKEN,
-  //   },
-  // },
+  search: {
+    tina: {
+      indexerToken: process.env.TINA_SEARCH_TOKEN,
+    },
+  },
 
   build: {
     outputFolder: 'admin',
@@ -162,6 +162,7 @@ export default defineConfig({
           {
             type: 'object',
             list: true,
+            searchable: false,
             name: 'imgSrcList',
             label: 'Images',
             required: true,
@@ -309,6 +310,7 @@ export default defineConfig({
             type: 'object',
             required: true,
             list: true,
+            searchable: false,
             fields: [
               { type: 'string', name: 'day', label: 'Jour', required: true },
               { type: 'string', name: 'hours', label: 'Horaire', required: true },
