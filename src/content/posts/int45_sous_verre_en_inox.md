@@ -11,4 +11,6 @@ draft: false
 
 En inox
 
+diamètre 83 mm
+
 Prix unitaire. 4 achetés + 2 gratuits = 40 € au lieu de 60 €

@@ -1,6 +1,6 @@
 ---
 title: INT3 - Petit papillon
-price: 15
+price: 10
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT3.jpg

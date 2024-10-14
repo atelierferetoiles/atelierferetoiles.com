@@ -1,6 +1,6 @@
 ---
 title: INT36 - Fleur de Lotus
-price: 40
+price: 50
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT36B.jpg

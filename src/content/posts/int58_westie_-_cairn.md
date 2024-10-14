@@ -1,13 +1,15 @@
 ---
-title: INT58 - Cairn
-price: 85
+title: INT58 - Westie - Cairn
+price: 90
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT58.jpg
-    alt: 'INT58 - Cairn '
-date: 2024-10-06T16:16:07.860Z
+    alt: 'INT58 - Westie - Cairn '
+date: '2024-10-06T16:16:07.860Z'
 draft: false
 ---
+
+
 
 En acier Corten, épaisseur 3 mm
 

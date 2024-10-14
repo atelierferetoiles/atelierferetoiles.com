@@ -1,6 +1,6 @@
 ---
 title: INT7 - Colibris et coccinelles
-price: 50
+price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT7.jpg
@@ -13,6 +13,6 @@ En acier Corten - coloris noir
 
 Existe en 2 tailles :
 
-Taille M : Hauteur 300 mm x largeur 455 mm, épaisseur 1.5 mm - prix 50 €
+Taille M : Hauteur 300 mm x largeur 455 mm, épaisseur 1.5 mm - prix 45 €
 
 Taille L : Hauteur 450 mm x largeur 685 mm, épaisseur 3 mm - prix 70 €

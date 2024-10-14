@@ -1,6 +1,6 @@
 ---
-title: INT49 - Voilier FAIT MAIN Taille XL
-price: 320
+title: INT49 - Voilier Taille XL
+price: 280
 category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT49.jpg
@@ -10,3 +10,5 @@ draft: false
 ---
 
 Entièrement fait main. Se compose d'acier, d'inox, de cuivre
+
+Dimensions : hauteur 400 mm x largeur 500 mm environ
