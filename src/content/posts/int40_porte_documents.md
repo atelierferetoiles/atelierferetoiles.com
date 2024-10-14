@@ -13,4 +13,4 @@ A poser sur le bureau, support de documents ou de classeurs
 
 En acier Corten, épaisseur 3 mm
 
-Dimensions :
+hauteur 190 mm x largeur 240 mm x profondeur 110 mm
