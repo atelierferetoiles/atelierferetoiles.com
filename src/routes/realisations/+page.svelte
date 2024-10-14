@@ -11,8 +11,6 @@
 
   export let data;
   const { fullGroups, posts, searchable } = data;
-
-  console.log(fullGroups);
 </script>
 
 <div class="container mx-auto max-w-5xl my-8">
