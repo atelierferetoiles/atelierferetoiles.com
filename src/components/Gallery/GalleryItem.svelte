@@ -10,6 +10,9 @@
     path,
   } = post;
   const [img] = imgSrcList;
+
+  const width = 320;
+  const height = 240;
 </script>
 
 {#if img}
@@ -18,9 +21,9 @@
       <img
         class="rounded group-hover:scale-110 transition duration-300 ease-in-out"
         loading="lazy"
-        width="640"
-        height="480"
-        src={cdnImageSrc({ url: img.src, w: 640, h: 480, fit: 'cover' })}
+        {width}
+        {height}
+        src={cdnImageSrc({ url: img.src, w: width, h: height, fit: 'cover' })}
         alt={img.alt}
       />
     </div>
