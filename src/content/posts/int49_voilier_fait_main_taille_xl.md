@@ -1,6 +1,6 @@
 ---
 title: INT49 - Voilier Taille XL
-price: 320
+price: 280
 category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT49.jpg
