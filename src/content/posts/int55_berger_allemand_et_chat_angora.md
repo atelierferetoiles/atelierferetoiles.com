@@ -11,6 +11,6 @@ draft: false
 
 En acier Corten, épaisseur 1.5 mm
 
-Dimensions : 
+Dimensions :hauteur 461 mm x largeur 618 mm
 
 Coloris : noir métal
