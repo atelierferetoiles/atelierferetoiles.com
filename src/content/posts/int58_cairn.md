@@ -1,5 +1,5 @@
 ---
-title: 'INT58 - Whesti '
+title: INT58 - Westie - Cairn
 price: 90
 category: src/content/categories/tableaux.json
 imgSrcList:
