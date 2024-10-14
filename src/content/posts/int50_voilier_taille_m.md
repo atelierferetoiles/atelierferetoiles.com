@@ -1,6 +1,6 @@
 ---
 title: INT50 - Voilier taille M
-price: 80
+price: 60
 category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT50.jpg
