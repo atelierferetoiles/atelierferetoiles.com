@@ -14,7 +14,7 @@
 		"format": "prettier --write --plugin-search-dir=. ./src",
 		"tina:dev": "tinacms dev -c \"npm run dev\"",
 		"deploy": "npm run build && netlify deploy",
-		"deploy:prod": "netlify deploy --prod"
+		"deploy:prod": "npm run build && netlify deploy --prod"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^2.1.0",
