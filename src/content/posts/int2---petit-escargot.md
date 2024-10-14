@@ -1,6 +1,6 @@
 ---
 title: INT2 - Petit escargot
-price: 15
+price: 10
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT2B.jpg
