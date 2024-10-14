@@ -11,4 +11,6 @@ draft: false
 
 En acier Corten, épaisseur 3 mm
 
+hauteur 357 mm x largeur 280 mm
+
 2 Coloris disponibles : métal naturel vernis ou noir métal
