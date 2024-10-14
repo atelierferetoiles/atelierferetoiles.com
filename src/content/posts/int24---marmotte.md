@@ -1,6 +1,6 @@
 ---
 title: INT24 - Marmotte
-price: 40
+price: 35
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT24 (2).jpg
