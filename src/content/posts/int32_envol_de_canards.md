@@ -1,6 +1,6 @@
 ---
 title: INT32 - Envol de canards
-price: 30
+price: 40
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT32.jpg
@@ -10,5 +10,7 @@ draft: false
 ---
 
 En acier Corten, épaisseur 1.5 mm
+
+hauteur 
 
 2 Coloris disponibles : métal naturel vernis ou noir métal
