@@ -1,6 +1,6 @@
 ---
 title: FL1 - Arbre en fer à béton
-price: 6500
+price: 5600
 category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
   - src: /asset/FL1 Z.jpg
