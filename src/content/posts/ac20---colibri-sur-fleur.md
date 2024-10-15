@@ -3,7 +3,7 @@ title: AC20 - Colibri sur fleur
 price: 35
 category: src/content/categories/animaux.json
 imgSrcList:
-  - src: /asset/AC20.JPG
+  - src: /asset/AC20 B.jpg
     alt: AC20 - Colibri sur fleur
 date: 2024-05-30T10:52:47.710Z
 draft: false
