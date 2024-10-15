@@ -1,6 +1,6 @@
 ---
 title: FL2 - Arbre stylisé
-price: 2900
+price: 2600
 category: src/content/categories/plantes-arbres-fleurs.json
 imgSrcList:
   - src: /asset/FL2.png
