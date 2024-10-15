@@ -3,13 +3,13 @@ title: AC50 - Cerf
 price: 380
 category: src/content/categories/animaux.json
 imgSrcList:
-  - src: /asset/AC50.jpg
+  - src: /asset/AC50 B.jpg
     alt: AC50 - Cerf
 date: 2024-05-30T12:44:45.336Z
 draft: false
 ---
 
- A planter dans le jardin. 
+ A planter dans le jardin.
 
 En acier Corten, épaisseur 4 mm
 
