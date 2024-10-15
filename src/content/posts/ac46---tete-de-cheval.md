@@ -3,7 +3,7 @@ title: AC46 - Tête de cheval
 price: 140
 category: src/content/categories/animaux.json
 imgSrcList:
-  - src: ''
+  - src: /asset/AC46 B.jpg
     alt: AC46 - Tête de Cheval
 date: 2024-05-30T12:41:52.997Z
 draft: false
