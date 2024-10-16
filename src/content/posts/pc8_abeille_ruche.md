@@ -3,7 +3,7 @@ title: PC8 - Abeille ruche
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC8.jpg
+  - src: /asset/PC8 B.jpg
     alt: PC8 - Abeille ruche
 date: 2024-10-04T15:06:05.124Z
 draft: false
