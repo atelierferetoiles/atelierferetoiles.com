@@ -3,7 +3,6 @@
   import { slide } from 'svelte/transition';
   import OffsetAnchor from './OffsetAnchor.svelte';
   import Bandeau from './Bandeau.svelte';
-  import cdnImageSrc from '$lib/cdnImageSrc';
 
   let imageWrapperClass = '';
   let imageClass = '';
@@ -21,7 +20,7 @@
 <section>
   <div
     class="flex flex-col min-h-[80vh] overflow-x-hidden bg-cover sm:bg-center sm:grid sm:grid-cols-2 relative"
-    style={`  image-rendering: crisp-edges;background-image: url('${cdnImageSrc({ url: photoHome, w: 1920 })}');`}
+    style={`  image-rendering: crisp-edges;background-image: url('${photoHome}');`}
   >
     {#if announcement}
       <Bandeau>
