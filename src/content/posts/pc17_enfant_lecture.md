@@ -3,7 +3,7 @@ title: PC17 - Enfant lecture
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC17.jpg
+  - src: /asset/PC17 B.jpg
     alt: PC17 - Enfant lecture
 date: 2024-10-04T15:31:31.863Z
 draft: false
