@@ -3,7 +3,7 @@ title: PC12 - Tortue escargot
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC12.jpg
+  - src: /asset/PC12 B.jpg
     alt: PC12 - Tortue escargot
 date: 2024-10-04T15:16:08.328Z
 draft: false
