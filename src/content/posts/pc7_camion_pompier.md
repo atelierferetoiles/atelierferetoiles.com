@@ -3,7 +3,7 @@ title: PC7 - Camion pompier
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC7.jpg
+  - src: /asset/PC7 B.jpg
     alt: PC7 - Camion pompier
 date: 2024-10-04T15:04:51.377Z
 draft: false
