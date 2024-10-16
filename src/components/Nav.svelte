@@ -6,6 +6,7 @@
   import { onMount } from 'svelte';
   import { facebook } from '$content/pages/footer.json';
   import FacebookLogo from '../icons/FacebookLogo.svelte';
+  import cdnImageSrc from '$lib/cdnImageSrc';
 
   // mobile nav open
   let open = false;
@@ -42,7 +43,11 @@
           href="/#top"
           on:click={closeMenu}
         >
-          <img src="/asset/logo.png" alt="Atelier Fer e'Toiles logo" class="h-24 w-24" />
+          <img
+            src={cdnImageSrc({ url: '/asset/logo.png' })}
+            alt="Atelier Fer e'Toiles logo"
+            class="h-24 w-24"
+          />
         </a>
       </div>
       <div class="block sm:hidden">

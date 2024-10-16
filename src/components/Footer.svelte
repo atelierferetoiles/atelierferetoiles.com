@@ -6,6 +6,7 @@
     imageHoursAlt as alt,
     imageHoursSrc as src,
   } from '$content/pages/footer.json';
+  import cdnImageSrc from '$lib/cdnImageSrc';
 </script>
 
 <div class="items-center md:flex">
@@ -24,7 +25,7 @@
   <div class="relative flex items-center justify-center w-full h-[450px] md:w-1/2">
     <img
       {alt}
-      {src}
+      src={cdnImageSrc({ url: src })}
       loading="lazy"
       class="absolute inset-0 h-[450px] w-full object-cover object-bottom"
     />
