@@ -3,7 +3,7 @@ title: PC1 - Danseurs
 price: 20
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC1.jpg
+  - src: /asset/PC1 B.jpg
     alt: PC1 - Danseurs
 date: 2024-10-04T14:33:13.148Z
 draft: false
