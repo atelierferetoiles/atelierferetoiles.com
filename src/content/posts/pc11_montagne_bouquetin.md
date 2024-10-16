@@ -3,7 +3,7 @@ title: PC11 - Montagne bouquetin
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC11.jpg
+  - src: /asset/PC11 B.jpg
     alt: PC11 - Montagne bouquetin
 date: 2024-10-04T15:14:54.660Z
 draft: false
