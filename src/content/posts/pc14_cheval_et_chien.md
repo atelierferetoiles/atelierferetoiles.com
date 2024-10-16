@@ -3,7 +3,7 @@ title: PC14 - Cheval et chien
 price: 30
 category: src/content/categories/porte-cles-et-autres-supports-muraux.json
 imgSrcList:
-  - src: /asset/PC14.jpg
+  - src: /asset/PC14 B.jpg
     alt: PC14 - Cheval et chien
 date: 2024-10-04T15:22:20.119Z
 draft: false
