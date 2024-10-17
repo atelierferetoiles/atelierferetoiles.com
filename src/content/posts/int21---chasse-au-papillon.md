@@ -3,7 +3,7 @@ title: INT21 - Chasse au papillon
 price: 35
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT21.jpg
+  - src: /asset/INT21 B.jpg
     alt: INT21 - Chasse au papillon
 date: 2024-06-19T12:29:19.902Z
 draft: false
