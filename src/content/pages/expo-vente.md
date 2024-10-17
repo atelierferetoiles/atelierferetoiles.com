@@ -1,3 +1,4 @@
+
 **E**nvie de vous faire plaisir ou de faire plaisir ?
 
 ![>](</asset/oiseau stylisé.jpg>)
@@ -8,9 +9,9 @@ Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, 
 
 ### SHOWROOM
 
-Le showroom de l’Atelier Fer E’Toiles est ouvert au public tous les mardis et jeudis après-midi de 14 h à 18 h 30 ou à tout autre moment **sur rendez-vous**.
+Le showroom de l’Atelier Fer E’Toiles est ouvert au public tous les mardis et jeudis après-midi de 14 h à 18 h 30 et à tout autre moment **sur rendez-vous**.
 
-Sur place vous pourrez choisir, acheter ou commander tous types d’articles de décoration en métal.
+Sur place, vous pourrez choisir, acheter ou commander tous types d’articles de décoration en métal.
 
 Une petite visite est l’occasion de m’exposer votre projet si vous avez une demande personnalisée !
 
@@ -28,7 +29,7 @@ Je participe à des salons et des expos-ventes tout au long de l’année.
 
 ·      Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
 
-·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) – vendredi 5 Juillet et vendredi 2 août 2024
+·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) – vendredis de juillet et août 2024
 
 ·       Foire à l’Ail de Locon (62) – 25 août 2024
 
