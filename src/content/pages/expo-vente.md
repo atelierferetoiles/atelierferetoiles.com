@@ -19,7 +19,9 @@ Une petite visite est l’occasion de m’exposer votre projet si vous avez une 
 
 ### EXPO-VENTES
 
-Je participe à des salons et des expos-ventes tout au long de l’année.
+Je participe à des salons et des expos-ventes tout au long de l’année. J'y expose la plupart de mes créations : animaux, plantes, tableaux, porte-clés et les girouettes bien sût !
+
+![](/asset/oies.jpg)
 
 ### **\*\* Calendrier 2024\*\***
 
