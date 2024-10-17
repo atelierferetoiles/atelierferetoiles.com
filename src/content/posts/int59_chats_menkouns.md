@@ -3,7 +3,7 @@ title: INT59 - Chats Menkouns
 price: 115
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT59.jpg
+  - src: /asset/INT59 B.jpg
     alt: INT59 - Chats Menkouns
 date: 2024-10-14T17:40:58.384Z
 draft: false
