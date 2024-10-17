@@ -3,7 +3,7 @@ title: INT27 - Bull Terrier
 price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT27.jpg
+  - src: /asset/INT27 B.jpg
     alt: INT27 - Bull Terrier
 date: 2024-10-03T15:06:41.822Z
 draft: false
