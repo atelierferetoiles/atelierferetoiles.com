@@ -3,7 +3,7 @@ title: INT37 - Perroquet
 price: 40
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT37.jpg
+  - src: /asset/INT37 B.jpg
     alt: INT37 - Perroquet
 date: 2024-10-03T15:21:06.182Z
 draft: false
