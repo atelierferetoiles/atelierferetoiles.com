@@ -3,7 +3,7 @@ title: INT19 - Escargot sur champignon
 price: 35
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT19.jpg
+  - src: /asset/INT19 B.jpg
     alt: INT19 - Escargot sur champignon
 date: 2024-06-19T12:10:13.796Z
 draft: false
