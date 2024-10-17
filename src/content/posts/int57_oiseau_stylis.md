@@ -1,7 +1,7 @@
 ---
 title: INT57 - Oiseau stylisé
 price: 120
-category: src/content/categories/tableaux.json
+category: src/content/categories/articles-decoratifs.json
 imgSrcList:
   - src: /asset/INT57.jpg
     alt: INT57 - Oiseau stylisé
