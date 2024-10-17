@@ -37,4 +37,4 @@ Je participe à des salons et des expos-ventes tout au long de l’année. J'y e
 
 ·       Marché de Noël d'Estaires (59) - 13, 14 et 15 décembre 2024
 
-![\<](</asset/expo 1.jpg>)![>](</asset/expo 3.jpg>)
+![\<](</asset/expo 1.jpg>)![](</asset/expo 4.jpg>)![>](</asset/expo 3.jpg>)
