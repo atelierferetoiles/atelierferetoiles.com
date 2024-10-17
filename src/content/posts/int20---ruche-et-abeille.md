@@ -3,7 +3,7 @@ title: INT20 - Ruche et abeille
 price: 40
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT20.jpg
+  - src: /asset/INT20 B.jpg
     alt: INT20 - Ruche et abeille
 date: 2024-06-19T12:25:00.678Z
 draft: false
