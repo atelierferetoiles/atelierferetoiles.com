@@ -3,7 +3,7 @@ title: INT12 - Montagne Bouquetins et Marmotte
 price: 50
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT12 (2).jpg
+  - src: /asset/INT12 B.jpg
     alt: INT12 - Montagne Bouquetins et Marmotte
 date: 2024-06-18T15:19:14.793Z
 draft: false
