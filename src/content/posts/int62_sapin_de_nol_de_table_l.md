@@ -9,12 +9,12 @@ date: 2024-10-17T09:51:31.396Z
 draft: false
 ---
 
-En acier Corten - A décorer en laissant libre cours à son imagination (avec des bonbons par exemple, des fleurs séchées, des pommes de pin ou des fruits, ou plus traditionnellement avec de la déco de Noël... 
+A décorer en laissant libre cours à son imagination (avec des bonbons par exemple, des biscuits, des fleurs séchées, des pommes de pin ou des fruits, ou plus traditionnellement avec de la déco de Noël...). Décoration non fournie
 
-Grande finesse des décors pour chacun des 4 plateaux. 
+Grande finesse des décors pour chacun des** 4 plateaux.**
 
-Très facilement et rapidement démontable pour un stockage à faible encombrement, dans son carton de rangement adapté. 
+Très facilement et rapidement démontable pour un stockage à faible encombrement, dans son carton de rangement adapté.
 
 hauteur 51 cm    diamètre 30 cm
 
-Coloris disponibles : métal naturel vernis, noir métal, blanc, or rosé, vert sapin, cuivre
+Coloris disponibles : métal naturel vernis, noir métal, blanc, or rosé, vert sapin, rouge
