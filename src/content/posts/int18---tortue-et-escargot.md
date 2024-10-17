@@ -1,7 +1,7 @@
 ---
 title: INT18 - Tortue et Escargot
 price: 45
-category: src/content/categories/Tableaux-dintrieur.json
+category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT18.jpg
     alt: INT18 - Tortue et Escargot
