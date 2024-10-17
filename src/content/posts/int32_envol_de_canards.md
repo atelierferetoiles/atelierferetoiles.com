@@ -3,7 +3,7 @@ title: INT32 - Envol de canards
 price: 40
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT32.jpg
+  - src: /asset/INT32 B.jpg
     alt: INT32 - Envol de canards
 date: 2024-10-03T15:15:49.438Z
 draft: false
