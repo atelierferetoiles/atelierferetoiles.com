@@ -3,7 +3,7 @@ title: INT7 - Colibris et coccinelles
 price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT7.jpg
+  - src: /asset/INT7 B.jpg
     alt: INT7 - Colibris et coccinelles
 date: 2024-06-18T14:56:15.651Z
 draft: false
