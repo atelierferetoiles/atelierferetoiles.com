@@ -3,7 +3,7 @@ title: INT8 - Faon et Renard
 price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT8.jpg
+  - src: /asset/INT8 B.jpg
     alt: INT8 - Faon et Renard
 date: 2024-06-18T15:05:02.841Z
 draft: false
