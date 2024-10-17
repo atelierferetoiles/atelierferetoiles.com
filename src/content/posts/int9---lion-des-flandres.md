@@ -3,7 +3,7 @@ title: INT9 - Lion des Flandres
 price: 50
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT9.jpg
+  - src: /asset/INT9 BB.jpg
     alt: INT9 - Lion des Flandres
 date: 2024-06-18T15:07:59.573Z
 draft: false
