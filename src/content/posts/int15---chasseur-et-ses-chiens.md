@@ -3,7 +3,7 @@ title: INT15 - Chasseur et ses chiens
 price: 140
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT15.jpg
+  - src: /asset/INT15 B.jpg
     alt: INT15 - Chasseur et ses chiens
 date: 2024-06-18T15:23:43.163Z
 draft: false
