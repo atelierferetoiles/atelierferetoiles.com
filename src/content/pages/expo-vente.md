@@ -29,9 +29,9 @@ Je participe à des salons et des expos-ventes tout au long de l’année. J'y e
 
 ·       Fête du Jardin d’Horticulture de Soissons (02) – 27 et 28 avril 2024
 
-·      Un Dimanche au bord de l'Aisne (Soissons) - 16 juin 2024
+·      Un Dimanche au bord de l'Aisne à Soissons (02) - 16 juin 2024
 
-·       Marchés Nocturnes de Béthune, sur la Grand'Place (62) – vendredis de juillet et août 2024
+·       Marchés Nocturnes de Béthune (62) – juillet et août 2024
 
 ·       Foire à l’Ail de Locon (62) – 25 août 2024
 
