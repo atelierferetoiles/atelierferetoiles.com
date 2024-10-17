@@ -3,7 +3,7 @@ title: INT22 - Herisson
 price: 30
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT22.jpg
+  - src: /asset/INT22 B.jpg
     alt: INT22 - Herisson
 date: 2024-06-19T12:33:08.869Z
 draft: false
