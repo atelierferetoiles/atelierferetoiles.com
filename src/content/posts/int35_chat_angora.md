@@ -3,7 +3,7 @@ title: INT35 - Chat Angora
 price: 50
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT35.jpg
+  - src: /asset/INT35 BB.jpg
     alt: INT35 - Chat Angora
 date: 2024-10-03T15:18:17.674Z
 draft: false
