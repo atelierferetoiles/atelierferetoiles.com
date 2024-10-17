@@ -9,13 +9,11 @@ Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, 
 
 ### SHOWROOM
 
-Le showroom de l’Atelier Fer E’Toiles est ouvert au public tous les mardis et jeudis après-midi de 14 h à 18 h 30 et à tout autre moment **sur rendez-vous**.
+Le showroom de l’Atelier Fer E’Toiles est ouvert au public tous les mardis et jeudis après-midi de 14 h à 18 h 30 et à tout autre moment **sur rendez-vous**.![](</asset/show room 1.png>)
 
 Sur place, vous pourrez choisir, acheter ou commander tous types d’articles de décoration en métal.
 
 Une petite visite est l’occasion de m’exposer votre projet si vous avez une demande personnalisée !
-
-![](</asset/show room 1.png>)
 
 ### EXPO-VENTES
 
