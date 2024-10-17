@@ -3,7 +3,7 @@ title: INT10 - Hibou sur branche
 price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT10.jpg
+  - src: /asset/INT10 BB.jpg
     alt: INT10 - Hibou sur branche
 date: 2024-06-18T15:11:22.427Z
 draft: false
