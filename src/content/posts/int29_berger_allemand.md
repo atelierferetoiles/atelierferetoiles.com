@@ -3,7 +3,7 @@ title: INT29 - Berger Allemand
 price: 45
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT29.jpg
+  - src: /asset/INT29 B.jpg
     alt: INT29 - Berger Allemand
 date: 2024-10-03T15:13:38.326Z
 draft: false
