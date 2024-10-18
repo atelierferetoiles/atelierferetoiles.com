@@ -3,13 +3,13 @@ title: INT13 - Cheval Chien et Chat
 price: 50
 category: src/content/categories/tableaux.json
 imgSrcList:
-  - src: /asset/INT13.jpg
+  - src: /asset/INT13 B.jpg
     alt: INT13 - Cheval Chien et Chat
 date: 2024-06-18T15:21:57.205Z
 draft: false
 ---
 
-En acier Corten, 
+En acier Corten,
 
 Existe en 2 tailles :
 
