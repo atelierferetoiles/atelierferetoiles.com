@@ -6,7 +6,7 @@ announcement: >-
   3 novembre 2024
 ---
 
-**A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’année à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
+**A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’années à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
 
 ![En train de forger un objet>](/asset/333066760_1302339120715545_8048575879001384206_n.jpg)
 
@@ -18,7 +18,7 @@ announcement: >-
 
 ![\<](/asset/INT49.jpg)
 
-**P**our la décoration extérieure, je travaille principalement l’acier Corten, un acier auto-protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ». Cerise sur le gâteau, cela **ne nécessite aucun entretien** ! Nul besoin de peindre ou de vernir ces réalisations tout spécialement adaptées pour l'extérieur ni même de les rentrer pour l'hiver. Bref, pas besoin de les nourrir !
+**P**our la décoration extérieure, je travaille principalement l’acier Corten, un acier auto protecteur à corrosion superficielle provoquée. Couramment utilisé pour son aspect et sa résistance aux conditions atmosphériques, cet acier est composé d’alliages dont la combinaison permet d’accroître la résistance à la corrosion par la formation d’une couche auto protectrice, de couleur rouille, appelée « Patine ». Cerise sur le gâteau, cela **ne nécessite aucun entretien** ! Nul besoin de peindre ou de vernir ces réalisations tout spécialement adaptées pour l'extérieur ni même de les rentrer pour l'hiver. Bref, pas besoin de les nourrir !
 
 **A**insi je réalise toutes sortes d’animaux, des plantes d’ornement et même des arbres, ou encore des girouettes pour l’agrément original de votre jardin, si petit soit-il !
 
