@@ -9,8 +9,8 @@ date: 2024-10-31T16:02:01.766Z
 draft: false
 ---
 
-Claustra en acier Corten pour clôture de jardin, décoration champêtre. 
+Claustra en acier Corten pour clôture de jardin, décoration champêtre.
 
-épaisseur 2 mm 
+épaisseur 1.5 mm
 
-hauteur 120 mm x 70 mm
+hauteur  1m40 x largeur 90 cm
