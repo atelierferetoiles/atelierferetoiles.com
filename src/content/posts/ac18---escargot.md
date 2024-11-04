@@ -1,6 +1,6 @@
 ---
 title: AC18 - Escargot
-price: 35
+price: 30
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC18 B.jpg
