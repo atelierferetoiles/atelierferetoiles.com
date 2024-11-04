@@ -2,8 +2,8 @@
 photoHome: /asset/accueil.avif
 subTitle: 'Le Savoir-''''Fer'''' de votre Artisan des Hauts de France '
 announcement: >-
-  Prochaine expo-vente : Marché du Terroir et de l'Artisanat à Annezin les 2 et
-  3 novembre 2024
+  Inscriptions ouvertes pour la journée Initiation à la forge du 16 NOVEMBRE
+  2024
 ---
 
 **A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’années à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
