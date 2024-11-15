@@ -2,8 +2,8 @@
 photoHome: /asset/accueil.avif
 subTitle: 'Le Savoir-''''Fer'''' de votre Artisan des Hauts de France '
 announcement: >-
-  Inscriptions ouvertes pour la journée Initiation à la forge du 16 NOVEMBRE
-  2024
+  Prochaines expos vente : Marché de Noël Estaires 13 au 15 déc puis Portes
+  Ouvertes de notre atelier les 16 et 17 déc
 ---
 
 **A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’années à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
