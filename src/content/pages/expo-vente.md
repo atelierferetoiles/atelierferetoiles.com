@@ -1,7 +1,7 @@
 
 **E**nvie de vous faire plaisir ou de faire plaisir ?![>](</asset/oiseau stylisé.jpg>)**P**assez me voir directement à l'atelier pour découvrir le showroom ou sur l'une des Expositions Ventes ci-dessous.
 
-Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, faites votre choix en consultant la page **"REALISATIONS"**. 
+Vous manquez de disponibilité ou habitez trop loin de l'atelier ? Dans ce cas, faites votre choix en consultant la page **"REALISATIONS"**.
 
 En cliquant sur la photo d'un article vous accédez à son descriptif et à son prix. Le bouton **"ENVIE DE COMMANDER OU BESOIN D'INFOS**" vous permet de me faire part de votre demande (pas de commande directement depuis le site). Sinon, passez votre commande [par mail](#contact) en précisant bien la référence de votre sélection et vos coordonnées. Je vous contacterai par retour afin de convenir des modalités de paiement et de livraison.
 
@@ -37,4 +37,7 @@ Je participe à des salons et des expos-ventes tout au long de l’année. J'y e
 
 ·       Marché du Terroir et de l'Artisanat à Annezin (62) – 2 et 3 novembre 2024
 
-·       Marché de Noël d'Estaires (59) - 13, 14 et 15 décembre 2024![](</asset/expo 4.jpg>)![\<](</asset/expo 1.jpg>)![>](</asset/expo 3.jpg>)
+·       Marché de Noël d'Estaires (59) - 13, 14 et 15 décembre 2024
+
+*     Portes Ouvertes Exceptionnelles de mon atelier à Locon (62) - 16 et 17 décembre de 14 h à 20 h
+* ![](</asset/expo 4.jpg>)![\<](</asset/expo 1.jpg>)![>](</asset/expo 3.jpg>)
