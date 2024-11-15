@@ -3,9 +3,9 @@ title: INT63 - Sapin de Noël de table - M
 price: 80
 category: src/content/categories/articles-decoratifs.json
 imgSrcList:
-  - src: /asset/INT63.jpg
+  - src: /asset/INT63 b.jpg
     alt: INT63 - Sapin de Noël de table - M
-date: 2024-10-07T10:04:00.000Z
+date: 2024-11-14T11:04:00.000Z
 draft: false
 ---
 
@@ -17,4 +17,4 @@ Très facilement et rapidement démontable pour un stockage à faible encombreme
 
 hauteur 40 cm    diamètre 23 cm
 
-Coloris disponibles : métal naturel vernis, noir métal, blanc, or rosé, vert sapin, cuivre, rouge
+Coloris disponibles : métal naturel vernis, blanc, noir métal, vert sapin, cuivre
