@@ -1,18 +1,20 @@
 ---
 title: INT56 - Carpe
-price: 70
+price: 35
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT56.jpg
     alt: INT56 - Carpe
-date: 2024-10-14T18:03:42.463Z
+date: 2024-12-04T19:03:00.000Z
 draft: false
 ---
 
-A accrocher sur un mur
+A accrocher sur un mur. 2 tailles disponibles
 
 En acier Corten, épaisseur 3 mm
 
-Hauteur 470 mm x Largeur 470 mm
+Taille L : Hauteur 470 mm x Largeur 470 mm - Prix 70 €
+
+Taille M : Hauteur 470 mm x Largeur 470 mm - Prix 35 €
 
 2 finitions disponibles : métal naturel vernis ou  peint noir métal
