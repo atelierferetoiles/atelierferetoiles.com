@@ -9,7 +9,7 @@
 
 **C**ette journée d'initiation se déroule dans l'atelier de 9h à 17h, chacun apporte son casse-croute pour la pause déjeuner (micro-ondes à disposition).
 
-**J**'accueille 2 à 3 stagiaires par session.\*\* Tarif: 90€ par personne\*\* (non compris les fournitures requises en cas de réalisation d'une girouette par exemple).
+**J**'accueille 2 à 3 stagiaires par session.  \*\* Tarif: 90€ par personne\*\* (non compris les fournitures requises en cas de réalisation d'une girouette par exemple).
 
 **Mesdames, cette formation s'adresse à vous également !**  Plusieurs exemples de modèles à réaliser lors des journées de formation ne requièrent pas de force particulière dans les bras ou les poignets.
 
