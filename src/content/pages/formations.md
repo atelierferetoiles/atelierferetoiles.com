@@ -15,7 +15,7 @@
 
 **Inscriptions et renseignements** [par email ou téléphone](#contact "par email ou téléphone")
 
-### **Calendrier 2025 des journées d'initiation :**
+### **Calendrier 2025 des journées d'initiation (adaptable selon vos demandes)**
 
 * 18 et 25 janvier 2025
 * 8 février 2025
