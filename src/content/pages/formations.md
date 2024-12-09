@@ -29,8 +29,5 @@
 * 18 et 25 octobre 2025
 * 1er et 22 novembre 2025
 * 6 et 20 décembre 2025
-* samedi 30 novembre
-* samedi 7 décembre
-* samedi 21 décembre
 
 ![](</asset/initiation 5.JPG.png>)
