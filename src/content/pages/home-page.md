@@ -1,10 +1,7 @@
 ---
 photoHome: /asset/accueil.avif
 subTitle: 'Le Savoir-''''Fer'''' de votre Artisan des Hauts de France '
-announcement: >-
-  Prochaines expos vente : Marché de Noël d'Estaires (59) du 13 au 15 décembre
-  puis "Portes Ouvertes Exceptionnelles" de l'atelier (Locon - 62) les 16 et 17
-  décembre de 14 h à 20 h
+announcement: 'Prochaines Expo Vente : Fête des Plantes LOCON les 22 et 23 mars 2025'
 ---
 
 **A**rtiste ferronnier formé auprès des compagnons du devoir, je me suis d’abord consacré durant une quinzaine d’années à la réalisation d’œuvres d’ampleur en ferronnerie telles que portails, rampes et escaliers, marquises…
