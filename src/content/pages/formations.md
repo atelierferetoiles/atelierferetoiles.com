@@ -9,7 +9,7 @@
 
 **C**ette journée d'initiation se déroule dans l'atelier de 9h à 17h, chacun apporte son casse-croute pour la pause déjeuner (micro-ondes à disposition).
 
-**J**'accueille 2 à 3 stagiaires par session.  \*\* Tarif: 90€ par personne\*\* (non compris les fournitures requises en cas de réalisation d'une girouette par exemple).
+**J**'accueille 2 à 3 stagiaires par session.  \*\* Tarif: 110 € par personne\*\* (non compris les fournitures requises en cas de réalisation d'une girouette par exemple).
 
 **Mesdames, cette formation s'adresse à vous également !**  Plusieurs exemples de modèles à réaliser lors des journées de formation ne requièrent pas de force particulière dans les bras ou les poignets.
 
@@ -17,16 +17,17 @@
 
 ### **Calendrier 2025 des journées d'initiation à la forge**
 
-### Possibilité de l'adapter se**lon vos contraintes, en ajoutant par exemple des sessions en semaine.**
+### Possibilité de l'adapter se**lon vos contraintes, en ajoutant des sessions en semaine par exemple.**
 
-* 18 et 25 janvier 2025
+* 25 janvier 2025
 * 8 février 2025
 * 1er mars et 29 mars 2025
-* 5 avril DEJA COMPLET 
+* 5 avril  **==> DEJA COMPLET**
 * 26 avril 2025
 * 1er et 29 mai 2025
 * 14 et 21 juin 2025
-* 12 et 14 juillet 2025
+* 12 juillet 2025 
+* 14 juillet 2025  **==> DEJA COMPLET**
 * 15 ou 16 août 2025
 * 13 et 20 septembre 2025
 * 18 et 25 octobre 2025
