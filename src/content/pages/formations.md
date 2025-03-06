@@ -19,14 +19,12 @@
 
 ### Possibilité de l'adapter se**lon vos contraintes, en ajoutant des sessions en semaine par exemple.**
 
-* 25 janvier 2025
-* 8 février 2025
-* 1er mars et 29 mars 2025
+* 29 mars **==> DEJA COMPLET**
 * 5 avril  **==> DEJA COMPLET**
 * 26 avril 2025
 * 1er et 29 mai 2025
 * 14 et 21 juin 2025
-* 12 juillet 2025 
+* 12 juillet 2025
 * 14 juillet 2025  **==> DEJA COMPLET**
 * 15 ou 16 août 2025
 * 13 et 20 septembre 2025
