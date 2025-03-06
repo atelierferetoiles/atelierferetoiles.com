@@ -1,6 +1,6 @@
 ---
 title: AC32 - Oie debout
-price: 60
+price: 65
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC32.jpg
@@ -9,7 +9,7 @@ date: 2024-05-30T12:25:03.518Z
 draft: false
 ---
 
-A planter dans le jardin. 
+A planter dans le jardin.
 
 En acier Corten, épaisseur 3 mm
 
