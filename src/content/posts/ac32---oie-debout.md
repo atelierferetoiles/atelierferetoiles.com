@@ -5,7 +5,7 @@ category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC32.jpg
     alt: AC32 - Oie debout
-date: 2024-05-30T12:25:03.518Z
+date: 2025-03-03T13:25:00.000Z
 draft: false
 ---
 
