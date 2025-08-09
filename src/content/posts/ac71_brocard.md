@@ -9,3 +9,4 @@ date: 2025-08-09T15:47:06.619Z
 draft: false
 ---
 
+En acier Corten, épaisseur 3 mm
