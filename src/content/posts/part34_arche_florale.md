@@ -9,4 +9,4 @@ date: 2025-08-09T16:30:53.343Z
 draft: false
 ---
 
-Arche en fer à béton, réalisée pour la Fête des Plantes de Locon.
+Partie haute d'une arche en fer à béton, réalisée pour la Fête des Plantes de Locon. 
