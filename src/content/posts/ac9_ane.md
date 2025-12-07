@@ -3,7 +3,7 @@ title: AC9 - Ane
 price: 185
 category: src/content/categories/animaux.json
 imgSrcList:
-  - src: /asset/AC9 B.jpg
+  - src: /asset/AC9b.jpg
     alt: AC9 - Ane
 date: 2024-11-15T10:12:40.405Z
 draft: false
