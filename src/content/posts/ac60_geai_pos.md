@@ -1,6 +1,7 @@
 ---
 title: AC60 - Geai posé
 price: 20
+category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC60.JPG
     alt: AC60 - Geai posé

@@ -158,6 +158,7 @@ export default defineConfig({
             type: 'reference',
             name: 'category',
             collections: ['categories'],
+            required: true
           },
           {
             type: 'object',
