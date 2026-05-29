@@ -1,6 +1,6 @@
 ---
 title: GIR4 - Coq Flamand
-price: 145
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR4.jpg
