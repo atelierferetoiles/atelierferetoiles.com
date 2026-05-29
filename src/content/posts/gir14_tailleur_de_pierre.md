@@ -1,6 +1,6 @@
 ---
 title: GIR14 - Tailleur de Pierre
-price: 160
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR14.jpg
