@@ -1,6 +1,6 @@
 ---
 title: GIR5 - Chat et papillon
-price: 145
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR5 B.jpg
