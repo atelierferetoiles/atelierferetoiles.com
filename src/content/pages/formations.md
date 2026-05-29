@@ -15,20 +15,19 @@
 
 **Inscriptions et renseignements** [par email ou téléphone](#contact "par email ou téléphone")
 
-### **Calendrier 2026 (1er semestre) des journées d'initiation à la forge**
+### **Calendrier 2026 (2ème semestre) des journées d'initiation à la forge**
 
 ### Possibilité de l'adapter se**lon vos contraintes, en ajoutant des sessions en semaine par exemple.**
 
-* 10 janvier 2026 **==> DEJA COMPLET**
-* 24 janvier 2026
-* 7 février 2026
-* 14 février 2026
-* 28 mars 2026
-* 4 avril 2026
-* 18 avril 2026
-* 8 mai 2026 ou 9 mai 2026
-* 30 mai 2026
-* 6 juin 2026
-* 20 juin 2026
+* 4 juillet 2026 
+* 1er août 2026
+* 8 août 2026
+* 29 août 2026
+* 26 septembre 2026
+* 3 octobre 2026
+* 17 octobre 2026
+* 7 novembre 2026
+* 28 novembre 2026
+* 12 décembre 2026
 
 ![](</asset/initiation 5.JPG.png>)
