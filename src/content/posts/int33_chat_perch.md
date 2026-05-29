@@ -1,6 +1,6 @@
 ---
 title: INT33 - Chat perché
-price: 50
+price: 60
 category: src/content/categories/tableaux.json
 imgSrcList:
   - src: /asset/INT33 B.jpg
