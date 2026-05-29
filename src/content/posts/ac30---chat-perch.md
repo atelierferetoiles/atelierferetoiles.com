@@ -1,6 +1,6 @@
 ---
 title: AC30 - Chat perché
-price: 50
+price: 60
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC30 B.jpg
