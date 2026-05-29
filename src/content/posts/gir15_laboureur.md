@@ -1,6 +1,6 @@
 ---
 title: GIR15 - Laboureur
-price: 160
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR15.jpg
