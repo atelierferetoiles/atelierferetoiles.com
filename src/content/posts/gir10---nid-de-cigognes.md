@@ -1,6 +1,6 @@
 ---
 title: GIR10 - Nid de Cigognes
-price: 145
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR10.JPG
@@ -15,6 +15,6 @@ Composition :
 
 Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
 
-**Dimensions : **
+\*\*Dimensions : \*\*
 
 Hauteur 1010 mm x largeur 870 mm
