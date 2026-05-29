@@ -1,6 +1,6 @@
 ---
 title: AC29 - Chat de gouttière
-price: 50
+price: 70
 category: src/content/categories/animaux.json
 imgSrcList:
   - src: /asset/AC29 b.jpg
