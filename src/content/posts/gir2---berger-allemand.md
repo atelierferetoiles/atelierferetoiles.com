@@ -1,6 +1,6 @@
 ---
 title: GIR2 - Berger Allemand
-price: 145
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR2.jpg
@@ -15,6 +15,6 @@ Composition :
 
 Décor de la Girouette, lettrage des points cardinaux et plumes de la flèche en acier Corten - Pointe de la flèche et volutes en acier massif - Mécanisme de rotation en inox
 
-**Dimensions : **
+\*\*Dimensions : \*\*
 
 Hauteur 1110 mm x largeur 730 mm
