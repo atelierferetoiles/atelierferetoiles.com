@@ -1,6 +1,6 @@
 ---
 title: GIR16 - Renard
-price: 145
+price: 165
 category: src/content/categories/girouettes.json
 imgSrcList:
   - src: /asset/GIR16 B.jpg
